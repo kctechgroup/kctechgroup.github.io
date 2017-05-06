@@ -1,0 +1,3 @@
+[submodule "blog/themes/beautiful-hexo"]
+	path = blog/themes/beautiful-hexo
+	url = git@github.com:twoyao/beautiful-hexo.git
