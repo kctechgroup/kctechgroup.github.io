@@ -1,14 +1,14 @@
 navbar-links:
     Archive: /archives
-    Github: https://github.com/twoyao/beautiful-hexo
+    Github: https://github.com/kctechgroup
     About: /about/
 
 avatar: /hexo.png
 favicon: /hexo.png
 
 header:
-    title: "Beautiful Hexo"
-    motto: Build a beautiful and simple website in minutes
+    title: "Kansas City Technology Group"
+    motto: Technology and Automation Enthusiasts Welcome!
     bigimgs:
         - src: /bigimgs/01.jpg
           desc: beautiful island
@@ -38,9 +38,9 @@ footer:
     link: 'http://weibo.com/bisyao?is_all=1'
     title: Weibo
     icon: fa-weibo
-    enalbe: true
+    enalbe: false
   github:
-    link: 'https://github.com/twoyao'
+    link: 'https://github.com/kctechgroup'
     title: GitHub
     icon: fa-github
     enable: true
@@ -53,12 +53,12 @@ footer:
     link: 'https://twitter.com/twoyao_'
     title: Twitter
     icon: fa-twitter
-    enable: true
+    enable: false
   mail:
     link: 'mailto:bisyao@gmail.com'
     title: Email me
     icon: fa-envelope
-    enable: true
+    enable: false
   linkin:
     link: # your link here e.g. http...
     title: LinkedIn
@@ -73,6 +73,6 @@ footer:
 google_analytics:
 
 comment:
-  enable: true
+  enable: false
   disqus: twoyao
 
