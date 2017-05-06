@@ -73,6 +73,6 @@ footer:
 google_analytics:
 
 comment:
-  enable: false
-  disqus: twoyao
+  enable: true
+  disqus: kctechgroup
 
