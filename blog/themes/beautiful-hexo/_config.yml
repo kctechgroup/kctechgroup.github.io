@@ -1,6 +1,7 @@
 navbar-links:
     Archive: /archives
     Github: https://github.com/kctechgroup
+    Slack: https://kctechgroup.slack.com
     About: /about/
 
 avatar: /hexo.png
@@ -11,11 +12,11 @@ header:
     motto: Technology and Automation Enthusiasts Welcome!
     bigimgs:
         - src: /bigimgs/01.jpg
-          desc: beautiful island
+          desc: 
         - src: /bigimgs/02.jpg
-          desc: Tropical Fish
+          desc: 
         - src: /bigimgs/03.jpg
-          desc: ocean
+          desc: 
 
 rss: /atom.xml
 googlefonts:
