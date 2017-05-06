@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kansas City Technology Group</title>
+  <subtitle>Technology and Automation Enthusiasts Welcome!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://kctechgroup.org/"/>
+  <updated>2017-05-06T00:53:31.000Z</updated>
+  <id>http://kctechgroup.org/</id>
+  
+  <author>
+    <name>KC Tech Group</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Welcome to the KC Tech Group!</title>
+    <link href="http://kctechgroup.org/2017/05/05/welcome/"/>
+    <id>http://kctechgroup.org/2017/05/05/welcome/</id>
+    <published>2017-05-05T20:02:25.000Z</published>
+    <updated>2017-05-06T00:53:31.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to the Kansas City Technology Group!  We are a group of technology and automation enthusiasts that meet periodically to discover new gadgets, tech, software, and more!  We’re just getting some things rolling, so stay tuned for more content and information soon.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to the Kansas City Technology Group!  We are a group of technology and automation enthusiasts that meet periodically to discover 
+    
+    </summary>
+    
+    
+      <category term="Welcome" scheme="http://kctechgroup.org/tags/Welcome/"/>
+    
+  </entry>
+  
+</feed>
