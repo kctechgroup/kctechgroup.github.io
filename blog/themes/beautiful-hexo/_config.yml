@@ -1,5 +1,6 @@
 navbar-links:
     Archive: /archives
+    Meetups: /meetups
     Github: https://github.com/kctechgroup
     Slack: https://kctechgroup.slack.com
     About: /about/
