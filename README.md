@@ -3,6 +3,8 @@ Welcome to the KC Technology Group Blog!  This blog is created using [Hexo](http
 
 ## Environment Setup
 
+Initially, this guide will focus on getting the website up and running on macOS; in the future I'll expand the guide with information on Windows and Linux platforms.  
+
 In order to build the Blog, you must first get your Node.js environment setup.  We'll do this locally, specific for this project.  First, start with cloning the repository:
 
 ```bash
@@ -49,3 +51,18 @@ npm-exec hexo generate
 
 ## Deploying the Site
 
+Once you're happy with the modifications (and assuming you have the appropriate privileges to publish to the _master_ branch on GitHub Pages), you can use Hexo to deploy the site as well:
+
+```bash
+npm-exec hexo publish
+```
+
+This will utilize your system-stored Git credentials in order to process the deploy functions.
+
+# Conclusion
+
+Typically, the deployment phase will be completed by approved members of KC Tech Group.  The rest of the steps can be utilized on a branch of the website to add content and evaluate it.  Submit a pull request once you've got your post ready and we'll merge it in and deploy!
+
+If you have any issues or comments/suggestions, submit a GitHub issue: https://github.com/kctechgroup/kctechgroup.github.io/issues
+
+Thanks and Happy Coding!
