@@ -3,7 +3,7 @@ navbar-links:
     Meetups: /meetups
     MindMap: /mindmap
     Github: https://github.com/kctechgroup
-    Slack: https://kctechgroup.slack.com
+    Slack: /slack
     About: /about/
 
 avatar: /hexo.png
