@@ -1,4 +1,5 @@
-{ "dependencies" :
-  { "hexo" : "3.3.5"
+{
+  "dependencies": {
+    "hexo": "^3.3.7"
   }
 }
