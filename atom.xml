@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kctechgroup.org/"/>
-  <updated>2017-06-02T15:39:00.000Z</updated>
+  <updated>2017-06-16T16:58:15.000Z</updated>
   <id>http://kctechgroup.org/</id>
   
   <author>
@@ -16,16 +16,47 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Meeting of the Minds #3</title>
+    <link href="http://kctechgroup.org/2017/06/16/motm-3/"/>
+    <id>http://kctechgroup.org/2017/06/16/motm-3/</id>
+    <published>2017-06-16T16:55:00.000Z</published>
+    <updated>2017-06-16T16:58:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>We’re back for another Meeting of the Minds!  MotM-3 will gather on <strong>July 6th, 2017</strong> at <strong>6:30pm</strong> (feel free to come early to get coffee and food, folks will start arriving around 6pm) at <a href="http://www.thirdspacecoffeehouse.com" target="_blank" rel="external">Third Space Coffee House</a> in Bonner Springs, KS.</p>
+<p>Our last MotM session at Third Space was quite delightful.  There will be food available (they have a wonderful menu!) and possibly some pie too 🍰.  </p>
+<p>We’ve still got some work to do on the topic voting–we’re certainly up for volunteers until we land on something concrete!  For this session, we’re going to fall back on one of my more favorite recent topics.  You guessed it: <strong>Static Site Generators</strong>.  I really think this will be an exciting session–I’ll be demoing a few different systems and I’m expecting a lot of folks to have light bulbs going off!  You’ll be able to do some pretty neat things after this one!</p>
+<a id="more"></a>
+<p>As we get closer, I’ll post a link to some resources for the presentation.  If you haven’t done it yet, don’t forget to join us in <a href="/slack">Slack</a>!</p>
+<p>Happy coding! 😎</p>
+<p>–Kevin Collins</p>
+<p>Third Space Coffee:<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;We’re back for another Meeting of the Minds!  MotM-3 will gather on &lt;strong&gt;July 6th, 2017&lt;/strong&gt; at &lt;strong&gt;6:30pm&lt;/strong&gt; (feel free to come early to get coffee and food, folks will start arriving around 6pm) at &lt;a href=&quot;http://www.thirdspacecoffeehouse.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Third Space Coffee House&lt;/a&gt; in Bonner Springs, KS.&lt;/p&gt;
+&lt;p&gt;Our last MotM session at Third Space was quite delightful.  There will be food available (they have a wonderful menu!) and possibly some pie too 🍰.  &lt;/p&gt;
+&lt;p&gt;We’ve still got some work to do on the topic voting–we’re certainly up for volunteers until we land on something concrete!  For this session, we’re going to fall back on one of my more favorite recent topics.  You guessed it: &lt;strong&gt;Static Site Generators&lt;/strong&gt;.  I really think this will be an exciting session–I’ll be demoing a few different systems and I’m expecting a lot of folks to have light bulbs going off!  You’ll be able to do some pretty neat things after this one!&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Meeting of the Minds #2</title>
     <link href="http://kctechgroup.org/2017/05/17/motm-2/"/>
     <id>http://kctechgroup.org/2017/05/17/motm-2/</id>
     <published>2017-05-17T23:45:00.000Z</published>
-    <updated>2017-06-02T15:39:00.000Z</updated>
+    <updated>2017-06-06T00:42:09.000Z</updated>
     
     <content type="html"><![CDATA[<p>It is time for another Meeting of the Minds!  MotM-2 will be held on <strong>June 5th, 2017</strong> at <strong>6:30pm</strong> at <a href="http://www.thirdspacecoffeehouse.com" target="_blank" rel="external">Third Space Coffee House</a> in Bonner Springs, KS:</p>
 <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br><a id="more"></a></p>
-<p>This will be our first gathering here, but I can assert that they have great food, exceptional coffee, and a wonderful atmosphere!  The presentation topic, chosen at the last MotM session, will be <strong>Source Control</strong>.  We’ll be covering the basics as well as demoing both Git and Subversion across a few platforms.  In addition to some introductory content, I hope to share a few tips and tricks that will benefit both beginner and advanced users!  </p>
-<p>Check back for a post here with some summary points as we get closer to June 5th.</p>
+<p>This will be our first gathering here, but I can assert that they have great food, exceptional coffee, and a wonderful atmosphere!  The presentation topic, chosen at the last MotM session, will be <strong>Source Control</strong>.  We’ll be covering the basics as well as demoing both Git and Subversion across a few platforms.  We might even offer up a surprise (at least to me!) entry in the Source Control world that I hadn’t run into before!  In addition to some introductory content, I hope to share a few tips and tricks that will benefit both beginner and advanced users!  </p>
+<p>I’ve got the presentation assembled (at least the Keynote content, you’ll have to come in person to see the demos), feel free to join the presentation live here (although until we work out some additional live video streaming goodness, it might not be that exciting):</p>
+<p><a href="https://www.icloud.com/keynote-live/sc:0Q1HS420lixvG81dldqU97DKkdh1Se2wL_q29M7XiO5VY1ZJQr5Y262Y9cqJOF9vkoR" target="_blank" rel="external">https://www.icloud.com/keynote-live/sc:0Q1HS420lixvG81dldqU97DKkdh1Se2wL_q29M7XiO5VY1ZJQr5Y262Y9cqJOF9vkoR</a></p>
 <p>Have a great week, and happy coding!</p>
 <p>–Kevin Collins</p>
 ]]></content>
