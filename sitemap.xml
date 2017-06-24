@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kctechgroup.org/meetups/index.html</loc>
+    
+    <lastmod>2017-06-24T22:00:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/about/index.html</loc>
+    
+    <lastmod>2017-06-24T21:57:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kctechgroup.org/slack/index.html</loc>
     
     <lastmod>2017-06-16T17:04:46.000Z</lastmod>
@@ -23,23 +37,9 @@
   </url>
   
   <url>
-    <loc>http://kctechgroup.org/meetups/index.html</loc>
-    
-    <lastmod>2017-05-18T00:46:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://kctechgroup.org/mindmap/index.html</loc>
     
     <lastmod>2017-05-18T00:46:41.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/about/index.html</loc>
-    
-    <lastmod>2017-05-17T01:09:49.000Z</lastmod>
     
   </url>
   
