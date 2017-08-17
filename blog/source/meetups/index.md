@@ -1,6 +1,6 @@
 ---
 title: meetups
-date: 2017-06-20 09:29:00
+date: 2017-08-17 12:59:00
 ---
 
 ## Meeting of the Minds
