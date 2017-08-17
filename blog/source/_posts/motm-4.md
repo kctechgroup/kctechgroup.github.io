@@ -7,6 +7,8 @@ tags:
 ---
 It's HOT 🔥 here in Kansas!  Thankfully that won't dissuade hungry minds from gobbling up great information about **Communications Protocols** in Meeting of the Minds #4!  This session will introduce you to some protocols that you might not have explored yet as well as peeling back the onion on some ones you might not have realized had such potential!  
 
+<!-- more -->
+
 Returning to [Third Space Coffee House](http://www.thirdspacecoffeehouse.com) in Bonner Springs on **August 3rd, 2017**, we'll start the meeting in the conference room at **6:30pm**.  Many folks enjoyed some tasty food before/during {% post_link motm-3 MotM-3 %}, so feel free to come out and enjoy a bite and/or some delicious coffee ahead of time (they'll give ya decaf too if you'd like given the evening schedule ☕️)!
 
 <center>
@@ -14,8 +16,6 @@ Returning to [Third Space Coffee House](http://www.thirdspacecoffeehouse.com) in
 </center>
 
 Mike and I are also happy to thank **[JetBrains s.r.o.](https://www.jetbrains.com)** for their support of KC Tech Group!  {% post_link motm-3 MotM-3 %} was our first raffle for a license to one of JetBrains' __amazing__ development tools.  Jim Evers hasn't let us know which product he's picked, but I'm sure there will be one that will enable some pretty neat new code to be constructed!  It is super great to have such generous support from JetBrains
-
-<!-- more -->
 
 Happy coding! 😎
 

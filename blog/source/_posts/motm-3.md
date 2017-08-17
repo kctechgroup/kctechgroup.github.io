@@ -11,8 +11,6 @@ Our last MotM session at Third Space was quite delightful.  There will be food a
 
 We've still got some work to do on the topic voting--we're certainly up for volunteers until we land on something concrete!  For this session, we're going to fall back on one of my more favorite recent topics.  You guessed it: **Static Site Generators**.  I really think this will be an exciting session--I'll be demoing a few different systems and I'm expecting a lot of folks to have light bulbs going off!  You'll be able to do some pretty neat things after this one!
 
-<!-- more -->
-
 As we get closer, I'll post a link to some resources for the presentation.  If you haven't done it yet, don't forget to join us in [Slack](/slack)!
 
 Happy coding! 😎
