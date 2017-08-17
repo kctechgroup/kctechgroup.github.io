@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kctechgroup.org/"/>
-  <updated>2017-07-22T02:22:52.000Z</updated>
+  <updated>2017-08-17T17:56:09.000Z</updated>
   <id>http://kctechgroup.org/</id>
   
   <author>
@@ -16,18 +16,59 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Meeting of the Minds #5</title>
+    <link href="http://kctechgroup.org/2017/08/17/motm-5/"/>
+    <id>http://kctechgroup.org/2017/08/17/motm-5/</id>
+    <published>2017-08-17T17:38:00.000Z</published>
+    <updated>2017-08-17T17:56:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Summer is nearing a close, but there is still a lot to look forward to as Fall starts to move in.  One such great thing is <a href="http://nodered.org" target="_blank" rel="external"><strong>Node-RED</strong></a>, which happens to be the topic of Meeting of the Minds #5!  We’ll be covering <a href="http://nodered.org" target="_blank" rel="external">Node-RED</a> which has superb applications for almost everyone.  Automating some of your home automation gadgets, simulating device behaviors, connecting disparate systems, and much more all fall under the capabilities of a <a href="http://nodered.org" target="_blank" rel="external"><strong>Node-RED</strong></a> system.</p>
+<p>Eric Crook (@ecrook on our <a href="/slack">Slack</a> group]) has volunteered to give us a presentation on <a href="http://nodered.org" target="_blank" rel="external"><strong>Node-RED</strong></a> and shine some light on its capabilities and reveal some of its more common use-cases.  With it being able to run on commodity hardware as well as powerful server-grade machines, everyone can explore <a href="http://nodered.org" target="_blank" rel="external"><strong>Node-RED</strong></a> and find their own uses for it.  Feel free to bring your Raspberry Pi and we’ll help get <a href="http://nodered.org" target="_blank" rel="external"><strong>Node-RED</strong></a> up and running for you after the presentation!</p>
+<center><br><img src="/2017/08/17/motm-5/jetbrains.svg" alt="JetBrains Logo" title="JetBrains Logo"><br></center>
+
+<p>I’d like to thank <a href="https://www.jetbrains.com" target="_blank" rel="external">JetBrains s.r.o.</a>** for their continued support of KC Tech Group! </p>
+<p>Join us for a chance to join our raffle for a free license to one of JetBrains’ <strong>incredible</strong> IDEs or development tools!  Also, check out their site for some of their other community offerings, they’ve got some great ways to get started with some great new technologies.</p>
+<p>We’ll see you at 6:30pm on <strong>September 7th</strong> at <a href="http://www.thirdspacecoffeehouse.com" target="_blank" rel="external">Third Space Coffee House</a> in Bonner Springs, KS:</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<p>Until then…  Happy coding! 😎</p>
+<p>–Kevin Collins</p>
+<a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Summer is nearing a close, but there is still a lot to look forward to as Fall starts to move in.  One such great thing is &lt;a href=&quot;http://nodered.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;Node-RED&lt;/strong&gt;&lt;/a&gt;, which happens to be the topic of Meeting of the Minds #5!  We’ll be covering &lt;a href=&quot;http://nodered.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Node-RED&lt;/a&gt; which has superb applications for almost everyone.  Automating some of your home automation gadgets, simulating device behaviors, connecting disparate systems, and much more all fall under the capabilities of a &lt;a href=&quot;http://nodered.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;Node-RED&lt;/strong&gt;&lt;/a&gt; system.&lt;/p&gt;
+&lt;p&gt;Eric Crook (@ecrook on our &lt;a href=&quot;/slack&quot;&gt;Slack&lt;/a&gt; group]) has volunteered to give us a presentation on &lt;a href=&quot;http://nodered.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;Node-RED&lt;/strong&gt;&lt;/a&gt; and shine some light on its capabilities and reveal some of its more common use-cases.  With it being able to run on commodity hardware as well as powerful server-grade machines, everyone can explore &lt;a href=&quot;http://nodered.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;Node-RED&lt;/strong&gt;&lt;/a&gt; and find their own uses for it.  Feel free to bring your Raspberry Pi and we’ll help get &lt;a href=&quot;http://nodered.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;Node-RED&lt;/strong&gt;&lt;/a&gt; up and running for you after the presentation!&lt;/p&gt;
+&lt;center&gt;&lt;br&gt;&lt;img src=&quot;/2017/08/17/motm-5/jetbrains.svg&quot; alt=&quot;JetBrains Logo&quot; title=&quot;JetBrains Logo&quot;&gt;&lt;br&gt;&lt;/center&gt;
+
+&lt;p&gt;I’d like to thank &lt;a href=&quot;https://www.jetbrains.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;JetBrains s.r.o.&lt;/a&gt;** for their continued support of KC Tech Group! &lt;/p&gt;
+&lt;p&gt;Join us for a chance to join our raffle for a free license to one of JetBrains’ &lt;strong&gt;incredible&lt;/strong&gt; IDEs or development tools!  Also, check out their site for some of their other community offerings, they’ve got some great ways to get started with some great new technologies.&lt;/p&gt;
+&lt;p&gt;We’ll see you at 6:30pm on &lt;strong&gt;September 7th&lt;/strong&gt; at &lt;a href=&quot;http://www.thirdspacecoffeehouse.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Third Space Coffee House&lt;/a&gt; in Bonner Springs, KS:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Until then…  Happy coding! 😎&lt;/p&gt;
+&lt;p&gt;–Kevin Collins&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Meeting of the Minds #4</title>
     <link href="http://kctechgroup.org/2017/07/21/motm-4/"/>
     <id>http://kctechgroup.org/2017/07/21/motm-4/</id>
     <published>2017-07-22T01:53:00.000Z</published>
-    <updated>2017-07-22T02:22:52.000Z</updated>
+    <updated>2017-08-17T17:52:04.000Z</updated>
     
     <content type="html"><![CDATA[<p>It’s HOT 🔥 here in Kansas!  Thankfully that won’t dissuade hungry minds from gobbling up great information about <strong>Communications Protocols</strong> in Meeting of the Minds #4!  This session will introduce you to some protocols that you might not have explored yet as well as peeling back the onion on some ones you might not have realized had such potential!  </p>
+<a id="more"></a>
 <p>Returning to <a href="http://www.thirdspacecoffeehouse.com" target="_blank" rel="external">Third Space Coffee House</a> in Bonner Springs on <strong>August 3rd, 2017</strong>, we’ll start the meeting in the conference room at <strong>6:30pm</strong>.  Many folks enjoyed some tasty food before/during <a href="/2017/06/16/motm-3/" title="MotM-3">MotM-3</a>, so feel free to come out and enjoy a bite and/or some delicious coffee ahead of time (they’ll give ya decaf too if you’d like given the evening schedule ☕️)!</p>
 <center><br><img src="/2017/07/21/motm-4/jetbrains.svg" alt="JetBrains Logo" title="JetBrains Logo"><br></center>
 
 <p>Mike and I are also happy to thank <strong><a href="https://www.jetbrains.com" target="_blank" rel="external">JetBrains s.r.o.</a></strong> for their support of KC Tech Group!  <a href="/2017/06/16/motm-3/" title="MotM-3">MotM-3</a> was our first raffle for a license to one of JetBrains’ <strong>amazing</strong> development tools.  Jim Evers hasn’t let us know which product he’s picked, but I’m sure there will be one that will enable some pretty neat new code to be constructed!  It is super great to have such generous support from JetBrains</p>
-<a id="more"></a>
 <p>Happy coding! 😎</p>
 <p>–Kevin Collins</p>
 <blockquote><p>Third Space Coffee:<br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p>
@@ -36,10 +77,6 @@
     <summary type="html">
     
       &lt;p&gt;It’s HOT 🔥 here in Kansas!  Thankfully that won’t dissuade hungry minds from gobbling up great information about &lt;strong&gt;Communications Protocols&lt;/strong&gt; in Meeting of the Minds #4!  This session will introduce you to some protocols that you might not have explored yet as well as peeling back the onion on some ones you might not have realized had such potential!  &lt;/p&gt;
-&lt;p&gt;Returning to &lt;a href=&quot;http://www.thirdspacecoffeehouse.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Third Space Coffee House&lt;/a&gt; in Bonner Springs on &lt;strong&gt;August 3rd, 2017&lt;/strong&gt;, we’ll start the meeting in the conference room at &lt;strong&gt;6:30pm&lt;/strong&gt;.  Many folks enjoyed some tasty food before/during &lt;a href=&quot;/2017/06/16/motm-3/&quot; title=&quot;MotM-3&quot;&gt;MotM-3&lt;/a&gt;, so feel free to come out and enjoy a bite and/or some delicious coffee ahead of time (they’ll give ya decaf too if you’d like given the evening schedule ☕️)!&lt;/p&gt;
-&lt;center&gt;&lt;br&gt;&lt;img src=&quot;/2017/07/21/motm-4/jetbrains.svg&quot; alt=&quot;JetBrains Logo&quot; title=&quot;JetBrains Logo&quot;&gt;&lt;br&gt;&lt;/center&gt;
-
-&lt;p&gt;Mike and I are also happy to thank &lt;strong&gt;&lt;a href=&quot;https://www.jetbrains.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;JetBrains s.r.o.&lt;/a&gt;&lt;/strong&gt; for their support of KC Tech Group!  &lt;a href=&quot;/2017/06/16/motm-3/&quot; title=&quot;MotM-3&quot;&gt;MotM-3&lt;/a&gt; was our first raffle for a license to one of JetBrains’ &lt;strong&gt;amazing&lt;/strong&gt; development tools.  Jim Evers hasn’t let us know which product he’s picked, but I’m sure there will be one that will enable some pretty neat new code to be constructed!  It is super great to have such generous support from JetBrains&lt;/p&gt;
     
     </summary>
     
@@ -53,12 +90,11 @@
     <link href="http://kctechgroup.org/2017/06/16/motm-3/"/>
     <id>http://kctechgroup.org/2017/06/16/motm-3/</id>
     <published>2017-06-16T16:55:00.000Z</published>
-    <updated>2017-06-16T16:59:19.000Z</updated>
+    <updated>2017-08-17T17:52:19.000Z</updated>
     
     <content type="html"><![CDATA[<p>We’re back for another Meeting of the Minds!  MotM-3 will gather on <strong>July 6th, 2017</strong> at <strong>6:30pm</strong> (feel free to come early to get coffee and food, folks will start arriving around 6pm) at <a href="http://www.thirdspacecoffeehouse.com" target="_blank" rel="external">Third Space Coffee House</a> in Bonner Springs, KS.</p>
 <p>Our last MotM session at Third Space was quite delightful.  There will be food available (they have a wonderful menu!) and possibly some pie too 🍰.  </p>
 <p>We’ve still got some work to do on the topic voting–we’re certainly up for volunteers until we land on something concrete!  For this session, we’re going to fall back on one of my more favorite recent topics.  You guessed it: <strong>Static Site Generators</strong>.  I really think this will be an exciting session–I’ll be demoing a few different systems and I’m expecting a lot of folks to have light bulbs going off!  You’ll be able to do some pretty neat things after this one!</p>
-<a id="more"></a>
 <p>As we get closer, I’ll post a link to some resources for the presentation.  If you haven’t done it yet, don’t forget to join us in <a href="/slack">Slack</a>!</p>
 <p>Happy coding! 😎</p>
 <p>–Kevin Collins</p>
@@ -67,9 +103,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;We’re back for another Meeting of the Minds!  MotM-3 will gather on &lt;strong&gt;July 6th, 2017&lt;/strong&gt; at &lt;strong&gt;6:30pm&lt;/strong&gt; (feel free to come early to get coffee and food, folks will start arriving around 6pm) at &lt;a href=&quot;http://www.thirdspacecoffeehouse.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Third Space Coffee House&lt;/a&gt; in Bonner Springs, KS.&lt;/p&gt;
-&lt;p&gt;Our last MotM session at Third Space was quite delightful.  There will be food available (they have a wonderful menu!) and possibly some pie too 🍰.  &lt;/p&gt;
-&lt;p&gt;We’ve still got some work to do on the topic voting–we’re certainly up for volunteers until we land on something concrete!  For this session, we’re going to fall back on one of my more favorite recent topics.  You guessed it: &lt;strong&gt;Static Site Generators&lt;/strong&gt;.  I really think this will be an exciting session–I’ll be demoing a few different systems and I’m expecting a lot of folks to have light bulbs going off!  You’ll be able to do some pretty neat things after this one!&lt;/p&gt;
+      &lt;p&gt;We’re back for another Meeting of the Minds!  MotM-3 will gather on &lt;strong&gt;July 6th, 2017&lt;/strong&gt; at &lt;strong&gt;6:30pm&lt;/strong&gt; (feel free
     
     </summary>
     
@@ -83,10 +117,11 @@
     <link href="http://kctechgroup.org/2017/05/17/motm-2/"/>
     <id>http://kctechgroup.org/2017/05/17/motm-2/</id>
     <published>2017-05-17T23:45:00.000Z</published>
-    <updated>2017-06-06T00:42:09.000Z</updated>
+    <updated>2017-08-17T17:53:47.000Z</updated>
     
     <content type="html"><![CDATA[<p>It is time for another Meeting of the Minds!  MotM-2 will be held on <strong>June 5th, 2017</strong> at <strong>6:30pm</strong> at <a href="http://www.thirdspacecoffeehouse.com" target="_blank" rel="external">Third Space Coffee House</a> in Bonner Springs, KS:</p>
-<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><br><a id="more"></a></p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 <p>This will be our first gathering here, but I can assert that they have great food, exceptional coffee, and a wonderful atmosphere!  The presentation topic, chosen at the last MotM session, will be <strong>Source Control</strong>.  We’ll be covering the basics as well as demoing both Git and Subversion across a few platforms.  We might even offer up a surprise (at least to me!) entry in the Source Control world that I hadn’t run into before!  In addition to some introductory content, I hope to share a few tips and tricks that will benefit both beginner and advanced users!  </p>
 <p>I’ve got the presentation assembled (at least the Keynote content, you’ll have to come in person to see the demos), feel free to join the presentation live here (although until we work out some additional live video streaming goodness, it might not be that exciting):</p>
 <p><a href="https://www.icloud.com/keynote-live/sc:0Q1HS420lixvG81dldqU97DKkdh1Se2wL_q29M7XiO5VY1ZJQr5Y262Y9cqJOF9vkoR" target="_blank" rel="external">https://www.icloud.com/keynote-live/sc:0Q1HS420lixvG81dldqU97DKkdh1Se2wL_q29M7XiO5VY1ZJQr5Y262Y9cqJOF9vkoR</a></p>
@@ -96,8 +131,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;It is time for another Meeting of the Minds!  MotM-2 will be held on &lt;strong&gt;June 5th, 2017&lt;/strong&gt; at &lt;strong&gt;6:30pm&lt;/strong&gt; at &lt;a href=&quot;http://www.thirdspacecoffeehouse.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Third Space Coffee House&lt;/a&gt; in Bonner Springs, KS:&lt;/p&gt;
-&lt;p&gt;&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;
+      &lt;p&gt;It is time for another Meeting of the Minds!  MotM-2 will be held on &lt;strong&gt;June 5th, 2017&lt;/strong&gt; at &lt;strong&gt;6:30pm&lt;/strong&gt; at &lt;a hre
     
     </summary>
     
