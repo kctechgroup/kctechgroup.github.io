@@ -7,8 +7,6 @@ tags:
 ---
 It's HOT 🔥 here in Kansas!  Thankfully that won't dissuade hungry minds from gobbling up great information about **Communications Protocols** in Meeting of the Minds #4!  This session will introduce you to some protocols that you might not have explored yet as well as peeling back the onion on some ones you might not have realized had such potential!  
 
-<!-- more -->
-
 Returning to [Third Space Coffee House](http://www.thirdspacecoffeehouse.com) in Bonner Springs on **August 3rd, 2017**, we'll start the meeting in the conference room at **6:30pm**.  Many folks enjoyed some tasty food before/during {% post_link motm-3 MotM-3 %}, so feel free to come out and enjoy a bite and/or some delicious coffee ahead of time (they'll give ya decaf too if you'd like given the evening schedule ☕️)!
 
 <center>
