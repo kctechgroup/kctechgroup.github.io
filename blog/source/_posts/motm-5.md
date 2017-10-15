@@ -7,8 +7,6 @@ tags:
 ---
 Summer is nearing a close, but there is still a lot to look forward to as Fall starts to move in.  One such great thing is [**Node-RED**](http://nodered.org), which happens to be the topic of Meeting of the Minds #5!  We'll be covering [Node-RED](http://nodered.org) which has superb applications for almost everyone.  Automating some of your home automation gadgets, simulating device behaviors, connecting disparate systems, and much more all fall under the capabilities of a [**Node-RED**](http://nodered.org) system.
 
-<!-- more -->
-
 Eric Crook (@ecrook on our [Slack](/slack) group) has volunteered to give us a presentation on [**Node-RED**](http://nodered.org) and shine some light on its capabilities and reveal some of its more common use-cases.  With it being able to run on commodity hardware as well as powerful server-grade machines, everyone can explore [**Node-RED**](http://nodered.org) and find their own uses for it.  Feel free to bring your Raspberry Pi and we'll help get [**Node-RED**](http://nodered.org) up and running for you after the presentation!
 
 <center>
@@ -26,5 +24,3 @@ We'll see you at 6:30pm on **September 7th** at [Third Space Coffee House](http:
 Until then...  Happy coding! 😎
 
 --Kevin Collins
-
-<!-- more -->
