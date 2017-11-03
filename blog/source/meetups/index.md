@@ -9,6 +9,7 @@ Our _Meeting of the Minds_ sessions are held the first Monday of every month (if
 
 | Session                       | Date / Time             | Location                                 |
 | ----------------------------- | ----------------------- | ---------------------------------------- |
+| MotM-8 | Dec 7th, 2017 @ 6:30pm | Third Space Coffee House, Bonner Springs, KS |
 | {% post_link motm-7 MotM-7 %} | Nov 2nd, 2017 @ 6:30pm | Third Space Coffee House, Bonner Springs, KS |
 | {% post_link motm-6 MotM-6 %} | Oct 5th, 2017 @ 6:30pm | Third Space Coffee House, Bonner Springs, KS |
 | {% post_link motm-5 MotM-5 %} | Sep 7th, 2017 @ 6:30pm | Third Space Coffee House, Bonner Springs, KS |
