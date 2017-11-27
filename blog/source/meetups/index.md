@@ -5,7 +5,7 @@ date: 2017-08-17 12:59:00
 
 ## Meeting of the Minds
 
-Our _Meeting of the Minds_ sessions are held the first Monday of every month (if possible).  We vote topics for each session through our [Slack](http://kctechgroup.slack.com) group.  
+Our _Meeting of the Minds_ sessions are held the first Thursday of every month (if possible).  Topics and presenters for the next session are discussed at the end of the meeting.
 
 | Session                       | Date / Time             | Location                                 |
 | ----------------------------- | ----------------------- | ---------------------------------------- |
