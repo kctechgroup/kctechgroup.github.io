@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kctechgroup.org/"/>
-  <updated>2017-11-28T03:45:24.904Z</updated>
+  <updated>2017-12-03T22:11:40.000Z</updated>
   <id>http://kctechgroup.org/</id>
   
   <author>
@@ -20,9 +20,10 @@
     <link href="http://kctechgroup.org/2017/11/27/motm-8/"/>
     <id>http://kctechgroup.org/2017/11/27/motm-8/</id>
     <published>2017-11-28T03:30:23.000Z</published>
-    <updated>2017-11-28T03:45:24.904Z</updated>
+    <updated>2017-12-03T22:11:40.000Z</updated>
     
     <content type="html"><![CDATA[<p>🦃 Turkey Day is over and I’m certainly a bit sluggish after eating way too much over the holiday!  Thanksgiving is a great time to reflect about some of the things that we’re thankful for though, and while family and friends definitely rank highest on my list, I find myself thankful for some of the great technologies we get to interact with and leverage from day to day.</p>
+<img src="/2017/11/27/motm-8/IMG_5499.jpg" alt="IMG_5499.jpg" title="">
 <p>For MotM-8, we’ll continue discovering (together!) some of the latest and greatest trends in computing and automation.  We’ve got a sneak peak at Hilscher’s <a href="https://www.netiot.com/netpi/netpi/" target="_blank" rel="external">NetPi</a> platform as well as an introduction to some of the technologies it is using.  We’ve covered <a href="https://www.nodered.org" target="_blank" rel="external">Node-RED</a> in the past (<a href="/2017/08/17/motm-5/" title="MotM-5">MotM-5</a>), and this time around I’ll be giving an introduction to Docker and container technology.  Sure, you can go through the <a href="https://docs.docker.com/get-started/" target="_blank" rel="external">Getting Started</a> guide on Docker’s website, but why not enjoy some tasty coffee and dinner at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="external">Third Space Coffee House</a> in Bonner Springs, KS (directions are on their website) while I help distill it down!  We’re getting started with the official stuff at <strong>6:30pm</strong> on <strong>Thursday, December 7th, 2017</strong>, but feel free to come early for food and conversation!</p>
 <center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center>
 
@@ -34,6 +35,7 @@
     <summary type="html">
     
       &lt;p&gt;🦃 Turkey Day is over and I’m certainly a bit sluggish after eating way too much over the holiday!  Thanksgiving is a great time to reflect about some of the things that we’re thankful for though, and while family and friends definitely rank highest on my list, I find myself thankful for some of the great technologies we get to interact with and leverage from day to day.&lt;/p&gt;
+&lt;img src=&quot;/2017/11/27/motm-8/IMG_5499.jpg&quot; alt=&quot;IMG_5499.jpg&quot; title=&quot;&quot;&gt;
 &lt;p&gt;For MotM-8, we’ll continue discovering (together!) some of the latest and greatest trends in computing and automation.  We’ve got a sneak peak at Hilscher’s &lt;a href=&quot;https://www.netiot.com/netpi/netpi/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;NetPi&lt;/a&gt; platform as well as an introduction to some of the technologies it is using.  We’ve covered &lt;a href=&quot;https://www.nodered.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Node-RED&lt;/a&gt; in the past (&lt;a href=&quot;/2017/08/17/motm-5/&quot; title=&quot;MotM-5&quot;&gt;MotM-5&lt;/a&gt;), and this time around I’ll be giving an introduction to Docker and container technology.  Sure, you can go through the &lt;a href=&quot;https://docs.docker.com/get-started/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Getting Started&lt;/a&gt; guide on Docker’s website, but why not enjoy some tasty coffee and dinner at &lt;a href=&quot;http://thirdspacecoffeehouse.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Third Space Coffee House&lt;/a&gt; in Bonner Springs, KS (directions are on their website) while I help distill it down!  We’re getting started with the official stuff at &lt;strong&gt;6:30pm&lt;/strong&gt; on &lt;strong&gt;Thursday, December 7th, 2017&lt;/strong&gt;, but feel free to come early for food and conversation!&lt;/p&gt;
 &lt;center&gt;&lt;br&gt;&lt;img src=&quot;/images/jetbrains.svg&quot; title=&quot;JetBrains Logo&quot;&gt;&lt;br&gt;&lt;/center&gt;
 
@@ -53,7 +55,7 @@
     <link href="http://kctechgroup.org/2017/10/15/motm-7/"/>
     <id>http://kctechgroup.org/2017/10/15/motm-7/</id>
     <published>2017-10-15T18:12:41.000Z</published>
-    <updated>2017-11-28T03:33:07.044Z</updated>
+    <updated>2017-12-03T21:58:51.203Z</updated>
     
     <content type="html"><![CDATA[<p>🎃 As we get ready for Halloween, we sometimes reflect on things that are scary or frightening.  Change is one of those things that can sometimes be scary, but many times, we find ourselves in a much better place after conquering that initial resistence and learning something new.</p>
 <p>There has been a lot of movement in the world of text editors in recent times, and MotM-7 is ready to share some of the changes with you.  We’ll also be touching on regular expressions, which have been around for a long time, but are worth looking at while you’re playing with your new text editor.  😎</p>
@@ -83,7 +85,7 @@
     <link href="http://kctechgroup.org/2017/09/22/motm-6/"/>
     <id>http://kctechgroup.org/2017/09/22/motm-6/</id>
     <published>2017-09-22T16:00:37.000Z</published>
-    <updated>2017-11-28T03:33:04.543Z</updated>
+    <updated>2017-12-03T21:58:51.202Z</updated>
     
     <content type="html"><![CDATA[<p>Fall is here! 🍃🍁🍂  We touched on some great points in <a href="/2017/08/17/motm-5/" title="MotM-5">MotM-5</a>, but we’re pushing that even further with a deeper look at Home Automation, specifically <a href="http://home-assistant.io" target="_blank" rel="external">Home Assistant</a> with a presentation by Alec Weaver (@aweaver on our <a href="/slack">Slack</a> group).  This product is a free and open way to integrate some of the smart devices out there in the marketplace, and Alec has some great demos lined up to help get you started!</p>
 <p>It is an exciting time in this area, as we see a lot of different products and strategies emerge.  I think this is an area that will see a lot more attention in the next couple of years.  I’m not sure how any one of us can keep up on all of it ourselves–this is when we need to engage our community.  Join ours and talk tech with us at <strong>6:30pm</strong> on <strong>October 5th, 2017</strong> at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="external">Third Space Coffee House</a> in Bonner Springs, KS (directions are on their website).  Come early and get some dinner and <em>wonderful</em> coffee!</p>
