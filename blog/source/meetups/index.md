@@ -5,11 +5,11 @@ date: 2017-12-31 17:28:00
 
 ## Meeting of the Minds
 
-Our _Meeting of the Minds_ sessions are typically held the first Thursday of every month (if possible).  Topics and presenters for the next session are discussed at the end of the meeting.
+Our _Meeting of the Minds_ sessions are typically held the first Thursday of every month (if possible, **except Feb 8!!**).  Topics and presenters for the next session are discussed at the end of the meeting.
 
 | Session                       | Date / Time             | Location                                 |
 | ----------------------------- | ----------------------- | ---------------------------------------- |
-| MotM-9                        | Feb 8th, 2017 @ 6:30pm | Third Space Coffee House, Bonner Springs, KS |
+| {% post_link motm-9 MotM-9 %} | Feb 8th, 2017 @ 6:30pm | Third Space Coffee House, Bonner Springs, KS |
 | {% post_link motm-8 MotM-8 %} | Dec 7th, 2017 @ 6:30pm | Third Space Coffee House, Bonner Springs, KS |
 | {% post_link motm-7 MotM-7 %} | Nov 2nd, 2017 @ 6:30pm | Third Space Coffee House, Bonner Springs, KS |
 | {% post_link motm-6 MotM-6 %} | Oct 5th, 2017 @ 6:30pm | Third Space Coffee House, Bonner Springs, KS |
