@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kctechgroup.org/"/>
-  <updated>2018-01-01T02:57:41.162Z</updated>
+  <updated>2018-02-04T20:29:59.945Z</updated>
   <id>http://kctechgroup.org/</id>
   
   <author>
@@ -14,6 +14,49 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Meeting of the Minds #9</title>
+    <link href="http://kctechgroup.org/2018/01/26/motm-9/"/>
+    <id>http://kctechgroup.org/2018/01/26/motm-9/</id>
+    <published>2018-01-26T23:00:15.000Z</published>
+    <updated>2018-02-04T20:29:59.945Z</updated>
+    
+    <content type="html"><![CDATA[<p>Rested 😴 and refreshed 😌, KC Tech Group’s <em>Meeting of the Minds</em> (MotM) sessions are back for 2018!  We’re kicking things off with a presentation on <a href="https://jupyter.org" target="_blank" rel="noopener">Jupyter Notebook</a>.  This interesting project gives you a way to combine all sorts of content including live code from multiple languages, documentation, and interactive visualizations as well!  Rather than spill all the beans, let’s just plan on stopping by <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS at <strong>6:30pm</strong> on <strong>Thursday, February 8th</strong> for some great coffee, company, and tech discussion!</p>
+<p>We’ll be continuing our raffle for a <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong> product license in 2018, so if you’re at all interested in their great developer tools and products, this is a great way to possibly win a free license!  Even if you don’t, check out their community offerings that are available free of charge!  It has been great to have JetBrains’ support for our group and we’re happy to welcome them back as a sponsor for 2018.</p>
+<center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center>
+
+<p>We’ve got some other <a href="/meetups">MotM</a> topics lined up for 2018, let us know through our <a href="/slack">Slack</a> group if you’ve got some other ideas or would like to do a presentation!  So far, here are some of the topics on our radar:</p>
+<ul>
+<li>The Things Network </li>
+<li>Block-chain Technology and Cryptocurrency 💰</li>
+<li><em>your topic idea here</em> 🤨</li>
+</ul>
+<p>I’m looking forward to keeping things going in 2018.  Happy Coding!!  😎</p>
+<p>–Kevin Collins</p>
+<a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Rested 😴 and refreshed 😌, KC Tech Group’s &lt;em&gt;Meeting of the Minds&lt;/em&gt; (MotM) sessions are back for 2018!  We’re kicking things off with a presentation on &lt;a href=&quot;https://jupyter.org&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Jupyter Notebook&lt;/a&gt;.  This interesting project gives you a way to combine all sorts of content including live code from multiple languages, documentation, and interactive visualizations as well!  Rather than spill all the beans, let’s just plan on stopping by &lt;a href=&quot;http://thirdspacecoffeehouse.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Third Space Coffee House&lt;/a&gt; in Bonner Springs, KS at &lt;strong&gt;6:30pm&lt;/strong&gt; on &lt;strong&gt;Thursday, February 8th&lt;/strong&gt; for some great coffee, company, and tech discussion!&lt;/p&gt;
+&lt;p&gt;We’ll be continuing our raffle for a &lt;strong&gt;&lt;a href=&quot;https://www.jetbrains.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;JetBrains s.r.o.&lt;/a&gt;&lt;/strong&gt; product license in 2018, so if you’re at all interested in their great developer tools and products, this is a great way to possibly win a free license!  Even if you don’t, check out their community offerings that are available free of charge!  It has been great to have JetBrains’ support for our group and we’re happy to welcome them back as a sponsor for 2018.&lt;/p&gt;
+&lt;center&gt;&lt;br&gt;&lt;img src=&quot;/images/jetbrains.svg&quot; title=&quot;JetBrains Logo&quot;&gt;&lt;br&gt;&lt;/center&gt;
+
+&lt;p&gt;We’ve got some other &lt;a href=&quot;/meetups&quot;&gt;MotM&lt;/a&gt; topics lined up for 2018, let us know through our &lt;a href=&quot;/slack&quot;&gt;Slack&lt;/a&gt; group if you’ve got some other ideas or would like to do a presentation!  So far, here are some of the topics on our radar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Things Network &lt;/li&gt;
+&lt;li&gt;Block-chain Technology and Cryptocurrency 💰&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;your topic idea here&lt;/em&gt; 🤨&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I’m looking forward to keeping things going in 2018.  Happy Coding!!  😎&lt;/p&gt;
+&lt;p&gt;–Kevin Collins&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
+    
+  </entry>
   
   <entry>
     <title>Closing Out 2017</title>
@@ -67,10 +110,9 @@
     <link href="http://kctechgroup.org/2017/11/27/motm-8/"/>
     <id>http://kctechgroup.org/2017/11/27/motm-8/</id>
     <published>2017-11-28T03:30:23.000Z</published>
-    <updated>2018-01-01T02:57:41.163Z</updated>
+    <updated>2018-02-04T20:29:59.944Z</updated>
     
     <content type="html"><![CDATA[<p>🦃 Turkey Day is over and I’m certainly a bit sluggish after eating way too much over the holiday!  Thanksgiving is a great time to reflect about some of the things that we’re thankful for though, and while family and friends definitely rank highest on my list, I find myself thankful for some of the great technologies we get to interact with and leverage from day to day.</p>
-<a id="more"></a>
 <img src="/2017/11/27/motm-8/IMG_5499.jpg">
 <p>For MotM-8, we’ll continue discovering (together!) some of the latest and greatest trends in computing and automation.  We’ve got a sneak peak at Hilscher’s <a href="https://www.netiot.com/netpi/netpi/" target="_blank" rel="noopener">NetPi</a> platform as well as an introduction to some of the technologies it is using.  We’ve covered <a href="https://www.nodered.org" target="_blank" rel="noopener">Node-RED</a> in the past (<a href="/2017/08/17/motm-5/" title="MotM-5">MotM-5</a>), and this time around I’ll be giving an introduction to Docker and container technology.  Sure, you can go through the <a href="https://docs.docker.com/get-started/" target="_blank" rel="noopener">Getting Started</a> guide on Docker’s website, but why not enjoy some tasty coffee and dinner at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS (directions are on their website) while I help distill it down!  We’re getting started with the official stuff at <strong>6:30pm</strong> on <strong>Thursday, December 7th, 2017</strong>, but feel free to come early for food and conversation!</p>
 <center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center>
@@ -82,7 +124,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;🦃 Turkey Day is over and I’m certainly a bit sluggish after eating way too much over the holiday!  Thanksgiving is a great time to reflect about some of the things that we’re thankful for though, and while family and friends definitely rank highest on my list, I find myself thankful for some of the great technologies we get to interact with and leverage from day to day.&lt;/p&gt;
+      &lt;p&gt;🦃 Turkey Day is over and I’m certainly a bit sluggish after eating way too much over the holiday!  Thanksgiving is a great time to refle
     
     </summary>
     
