@@ -19,4 +19,4 @@ We maintain events in our calendar below.  Use the link below it to subscribe an
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=8i0mvttflp95l4d64brckurlvc%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=America%2FChicago" style="border-width:0" width="750" height="600" frameborder="0" scrolling="no"></iframe>
 
-Subscribe to the calendar in iCal format with this [Subscription Link](https://calendar.google.com/calendar/ical/8i0mvttflp95l4d64brckurlvc%40group.calendar.google.com/public/basic.ics)!
+View and Subscribe to the calendar with this [Sharable Link](https://calendar.google.com/calendar?cid=OGkwbXZ0dGZscDk1bDRkNjRicmNrdXJsdmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)!  For information on what to do with that link and/or how to get it connected to your device, reference this support article on how to [Add someone else's Google Calendar](https://support.google.com/calendar/answer/37100).
