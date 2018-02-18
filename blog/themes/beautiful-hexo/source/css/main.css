@@ -296,6 +296,10 @@ footer .theme-by {
   color: #404040;
 }
 
+.post-preview p a {
+  color: #008AFF;
+}
+
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
