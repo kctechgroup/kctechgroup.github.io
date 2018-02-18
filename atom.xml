@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kctechgroup.org/"/>
-  <updated>2018-02-04T20:29:59.945Z</updated>
+  <updated>2018-02-18T02:07:33.214Z</updated>
   <id>http://kctechgroup.org/</id>
   
   <author>
@@ -16,13 +16,50 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Meeting of the Minds #10</title>
+    <link href="http://kctechgroup.org/2018/02/17/motm-10/"/>
+    <id>http://kctechgroup.org/2018/02/17/motm-10/</id>
+    <published>2018-02-18T02:07:00.000Z</published>
+    <updated>2018-02-18T02:07:33.214Z</updated>
+    
+    <content type="html"><![CDATA[<p>We’re back in the swing of things for 2018, looking forward to Spring! 🌱 🌷  Since we’re not quite there yet, I’ll try and keep your mind busy with the next Meeting of the Minds topic for March!  Vehicles today are more advanced than ever with sophisticated chassis control, automated driving aids, and even more fuel efficient drivetrains.  More and more of the components whose only possibility for improvement depended on turning a wrench or swapping out parts can now be customized through changing some bits in the ever-growing number of computerized controllers that are onboard.</p>
+<p>Alright, alright, so we’re going to learn how to adjust fuel injection parameters and spark advance curves?  Nope, instead we’re going to focus on an area of vehicle customization that has been out of reach in times past.  General Motors (and perhaps others) now offers a development SDK for creating custom applications that run on the built-in touchscreen infotainment systems in newer cars.  Best of all, you develop these applications using open technologies such as Node.js! 😎  Check it out on their site for <a href="https://developer.gm.com/ngi" target="_blank" rel="noopener">Next Generation Infotainment</a>.</p>
+<p>Join us at <strong>6:30pm</strong> on <strong>March 1st, 2018</strong> in the Conference Room at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS.  I’ll be giving a demo of this system along with a proof-of-concept application (source code will be available on our <a href="https://github.com/kctechgroup" target="_blank" rel="noopener">Github</a> page afterwards).  It should be an entertaining (that part is on me) presentation and discussion (this part is partially on all of you), so come and join the fun!</p>
+<center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center>
+
+<p>We’re also back in action with our sponsor for Meeting of the Minds, <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong>.  We have a drawing each session for a free license to one of their great IDE’s or development tools.  You should really check them out–especially if you want to get your dev on.  😉 </p>
+<p>Alright, I better get to coding.</p>
+<p>–Kevin Collins</p>
+<a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;We’re back in the swing of things for 2018, looking forward to Spring! 🌱 🌷  Since we’re not quite there yet, I’ll try and keep your mind busy with the next Meeting of the Minds topic for March!  Vehicles today are more advanced than ever with sophisticated chassis control, automated driving aids, and even more fuel efficient drivetrains.  More and more of the components whose only possibility for improvement depended on turning a wrench or swapping out parts can now be customized through changing some bits in the ever-growing number of computerized controllers that are onboard.&lt;/p&gt;
+&lt;p&gt;Alright, alright, so we’re going to learn how to adjust fuel injection parameters and spark advance curves?  Nope, instead we’re going to focus on an area of vehicle customization that has been out of reach in times past.  General Motors (and perhaps others) now offers a development SDK for creating custom applications that run on the built-in touchscreen infotainment systems in newer cars.  Best of all, you develop these applications using open technologies such as Node.js! 😎  Check it out on their site for &lt;a href=&quot;https://developer.gm.com/ngi&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Next Generation Infotainment&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Join us at &lt;strong&gt;6:30pm&lt;/strong&gt; on &lt;strong&gt;March 1st, 2018&lt;/strong&gt; in the Conference Room at &lt;a href=&quot;http://thirdspacecoffeehouse.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Third Space Coffee House&lt;/a&gt; in Bonner Springs, KS.  I’ll be giving a demo of this system along with a proof-of-concept application (source code will be available on our &lt;a href=&quot;https://github.com/kctechgroup&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Github&lt;/a&gt; page afterwards).  It should be an entertaining (that part is on me) presentation and discussion (this part is partially on all of you), so come and join the fun!&lt;/p&gt;
+&lt;center&gt;&lt;br&gt;&lt;img src=&quot;/images/jetbrains.svg&quot; title=&quot;JetBrains Logo&quot;&gt;&lt;br&gt;&lt;/center&gt;
+
+&lt;p&gt;We’re also back in action with our sponsor for Meeting of the Minds, &lt;strong&gt;&lt;a href=&quot;https://www.jetbrains.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;JetBrains s.r.o.&lt;/a&gt;&lt;/strong&gt;.  We have a drawing each session for a free license to one of their great IDE’s or development tools.  You should really check them out–especially if you want to get your dev on.  😉 &lt;/p&gt;
+&lt;p&gt;Alright, I better get to coding.&lt;/p&gt;
+&lt;p&gt;–Kevin Collins&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Meeting of the Minds #9</title>
     <link href="http://kctechgroup.org/2018/01/26/motm-9/"/>
     <id>http://kctechgroup.org/2018/01/26/motm-9/</id>
     <published>2018-01-26T23:00:15.000Z</published>
-    <updated>2018-02-04T20:29:59.945Z</updated>
+    <updated>2018-02-17T22:54:58.843Z</updated>
     
-    <content type="html"><![CDATA[<p>Rested 😴 and refreshed 😌, KC Tech Group’s <em>Meeting of the Minds</em> (MotM) sessions are back for 2018!  We’re kicking things off with a presentation on <a href="https://jupyter.org" target="_blank" rel="noopener">Jupyter Notebook</a>.  This interesting project gives you a way to combine all sorts of content including live code from multiple languages, documentation, and interactive visualizations as well!  Rather than spill all the beans, let’s just plan on stopping by <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS at <strong>6:30pm</strong> on <strong>Thursday, February 8th</strong> for some great coffee, company, and tech discussion!</p>
+    <content type="html"><![CDATA[<p>Rested 😴 and refreshed 😌, KC Tech Group’s <em>Meeting of the Minds</em> (MotM) sessions are back for 2018!  We’re kicking things off with a presentation on <a href="https://jupyter.org" target="_blank" rel="noopener">Jupyter Notebook</a>.  This interesting project gives you a way to combine all sorts of content including live code from multiple languages, documentation, and interactive visualizations as well!  </p>
+<a id="more"></a>
+<p>Rather than spill all the beans, let’s just plan on stopping by <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS at <strong>6:30pm</strong> on <strong>Thursday, February 8th</strong> for some great coffee, company, and tech discussion!</p>
 <p>We’ll be continuing our raffle for a <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong> product license in 2018, so if you’re at all interested in their great developer tools and products, this is a great way to possibly win a free license!  Even if you don’t, check out their community offerings that are available free of charge!  It has been great to have JetBrains’ support for our group and we’re happy to welcome them back as a sponsor for 2018.</p>
 <center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center>
 
@@ -34,22 +71,11 @@
 </ul>
 <p>I’m looking forward to keeping things going in 2018.  Happy Coding!!  😎</p>
 <p>–Kevin Collins</p>
-<a id="more"></a>]]></content>
+]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Rested 😴 and refreshed 😌, KC Tech Group’s &lt;em&gt;Meeting of the Minds&lt;/em&gt; (MotM) sessions are back for 2018!  We’re kicking things off with a presentation on &lt;a href=&quot;https://jupyter.org&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Jupyter Notebook&lt;/a&gt;.  This interesting project gives you a way to combine all sorts of content including live code from multiple languages, documentation, and interactive visualizations as well!  Rather than spill all the beans, let’s just plan on stopping by &lt;a href=&quot;http://thirdspacecoffeehouse.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Third Space Coffee House&lt;/a&gt; in Bonner Springs, KS at &lt;strong&gt;6:30pm&lt;/strong&gt; on &lt;strong&gt;Thursday, February 8th&lt;/strong&gt; for some great coffee, company, and tech discussion!&lt;/p&gt;
-&lt;p&gt;We’ll be continuing our raffle for a &lt;strong&gt;&lt;a href=&quot;https://www.jetbrains.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;JetBrains s.r.o.&lt;/a&gt;&lt;/strong&gt; product license in 2018, so if you’re at all interested in their great developer tools and products, this is a great way to possibly win a free license!  Even if you don’t, check out their community offerings that are available free of charge!  It has been great to have JetBrains’ support for our group and we’re happy to welcome them back as a sponsor for 2018.&lt;/p&gt;
-&lt;center&gt;&lt;br&gt;&lt;img src=&quot;/images/jetbrains.svg&quot; title=&quot;JetBrains Logo&quot;&gt;&lt;br&gt;&lt;/center&gt;
-
-&lt;p&gt;We’ve got some other &lt;a href=&quot;/meetups&quot;&gt;MotM&lt;/a&gt; topics lined up for 2018, let us know through our &lt;a href=&quot;/slack&quot;&gt;Slack&lt;/a&gt; group if you’ve got some other ideas or would like to do a presentation!  So far, here are some of the topics on our radar:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The Things Network &lt;/li&gt;
-&lt;li&gt;Block-chain Technology and Cryptocurrency 💰&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;your topic idea here&lt;/em&gt; 🤨&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I’m looking forward to keeping things going in 2018.  Happy Coding!!  😎&lt;/p&gt;
-&lt;p&gt;–Kevin Collins&lt;/p&gt;
+      &lt;p&gt;Rested 😴 and refreshed 😌, KC Tech Group’s &lt;em&gt;Meeting of the Minds&lt;/em&gt; (MotM) sessions are back for 2018!  We’re kicking things off with a presentation on &lt;a href=&quot;https://jupyter.org&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Jupyter Notebook&lt;/a&gt;.  This interesting project gives you a way to combine all sorts of content including live code from multiple languages, documentation, and interactive visualizations as well!  &lt;/p&gt;
     
     </summary>
     
