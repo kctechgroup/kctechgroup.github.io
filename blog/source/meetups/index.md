@@ -9,7 +9,7 @@ Our _Meeting of the Minds_ sessions are _typically_ held the first Thursday of e
 
 | Session                       | Date / Time             | Topic                                 |
 | ----------------------------- | ----------------------- | ---------------------------------------- |
-| MotM-12                       | Thursday, May 3rd, 2018 @ 6:30pm | Pending
+| MotM-12                       | Thursday, May 3rd, 2018 @ 6:30pm | Qt Library
 | MotM-11                       | Wednesday, Apr 4th, 2018 @ 6:30pm | The Things Network
 | MotM-10                       | Thursday, Mar 1st, 2018 @ 6:30pm | ~~Blockchain Technology~~ Pending!
 | {% post_link motm-9 MotM-9 %} | Thursday, Feb 8th, 2018 @ 6:30pm | [Project Jupyter](http://jupyter.org)
