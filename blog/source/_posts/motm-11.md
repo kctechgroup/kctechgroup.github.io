@@ -9,6 +9,8 @@ date: 2018-03-31 20:22:26
 
 Though it looks as though we might be in for a chilly Easter, things are generally warming and and we're starting to see some green on the ground.  We're getting close to our next MotM session about [The Things Network](https://www.thethingsnetwork.org), which should yield some pretty interesting discussion!  Our presenter this month attended the first [The Things Network Conference](https://www.thethingsnetwork.org/conference/) in Amsterdam this year and has a lot of great insight into the underlying [LoRaWAN](https://www.lora-alliance.org/what-is-lora) technology driving one of the many waves of the so-called Internet of Things (IoT).
 
+<!-- more -->
+
 {% asset_img IMG_4204.JPG %}
 
 I'm hoping we can build more on some of the great discussions we had during {% post_link motm-10 MotM-10 %}.  Part of what makes Meeting of the Minds interesting is not just the tech itself but the insights from everyone regarding how it can be applied (and also, sometimes, the why).  LoRaWAN, one of a few emerging Low-Power Wide Area Network (LPWAN) technologies, has some unique properties that enable some fascinating possibilities for sensor deployments.  I'm sure everyone will have some neat ideas to chat about.
@@ -24,5 +26,3 @@ In 2018, we're continuing to raffle off a license to one of **[JetBrains'](https
 Have a great Easter and happy coding!
 
 --Kevin Collins
-
-<!-- more -->
