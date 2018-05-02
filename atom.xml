@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kctechgroup.org/"/>
-  <updated>2018-04-01T01:22:44.864Z</updated>
+  <updated>2018-05-02T00:56:55.527Z</updated>
   <id>http://kctechgroup.org/</id>
   
   <author>
@@ -16,13 +16,53 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Meeting of the Minds #12</title>
+    <link href="http://kctechgroup.org/2018/05/01/motm-12/"/>
+    <id>http://kctechgroup.org/2018/05/01/motm-12/</id>
+    <published>2018-05-02T00:11:26.000Z</published>
+    <updated>2018-05-02T00:56:55.527Z</updated>
+    
+    <content type="html"><![CDATA[<p>Spring seems to have sprung for the most part 🌷🚜–I’ve had to mow my lawn, so I think that counts.  Meeting of the Minds is off to the races for 2018 and we’ve got a great framework to take a look at.  The <a href="https://www.qt.io" target="_blank" rel="noopener">Qt Framework</a> (pronounced “cute”) has grown considerably since the last time I was pseudo-familiar with it.  I remember it from back in the days of the <a href="https://www.gnome.org" target="_blank" rel="noopener">GNOME</a> vs <a href="https://www.kde.org" target="_blank" rel="noopener">KDE</a> battles on the Linux Desktop.  GNOME used the GTK+ graphical toolkit, and KDE used Qt.  Taking a peek at things lately yields the realization that a <strong>LOT</strong> has happened since those early days.</p>
+<center><br><img src="/2018/05/01/motm-12/Qt_logo_2016.png"><br></center>
+
+<p>It’s all about consistent multi-platform development, across a wide range of use-cases, much more than just single desktop and mobile applications.  Vehicles, refrigerators, automation, and more!  Feel free to check out the <a href="https://www.qt.io" target="_blank" rel="noopener">Qt</a> website for some additional overview content, but what better than some real-world demos, feedback, and discussion?  We’ll be hearing from Alec Weaver, who has been working with the platform to create some interesting applications.  I’m looking forward to a great session and some great discussions about how Qt might be able to be applied.</p>
+<p>Join us on <strong>Thursday, May 3rd at 6:30pm</strong> in Bonner Springs at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee</a>.  Feel free to come by a little beforehand to get a tasty coffee or snack and chat about things tech and otherwise–there is a nice deck out back as well to enjoy the nice evening weather.  </p>
+<p>I’d like to take a moment to give a shout out to our continued sponsor for 2018, <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains</a></strong>, who has been generous to offer us licenses to their extensive collection of IDE’s and other tools as offerings in our monthly raffle.  </p>
+<center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center>
+
+<p>We’re always looking for some additional topic ideas, so please feel free to send us a note via our <a href="https://kevincollins3.typeform.com/to/eoGgpP" target="_blank" rel="noopener">MotM Topic Submission Form</a>!  Thanks as always and Happy Coding!</p>
+<p>–Kevin Collins</p>
+<a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Spring seems to have sprung for the most part 🌷🚜–I’ve had to mow my lawn, so I think that counts.  Meeting of the Minds is off to the races for 2018 and we’ve got a great framework to take a look at.  The &lt;a href=&quot;https://www.qt.io&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Qt Framework&lt;/a&gt; (pronounced “cute”) has grown considerably since the last time I was pseudo-familiar with it.  I remember it from back in the days of the &lt;a href=&quot;https://www.gnome.org&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GNOME&lt;/a&gt; vs &lt;a href=&quot;https://www.kde.org&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;KDE&lt;/a&gt; battles on the Linux Desktop.  GNOME used the GTK+ graphical toolkit, and KDE used Qt.  Taking a peek at things lately yields the realization that a &lt;strong&gt;LOT&lt;/strong&gt; has happened since those early days.&lt;/p&gt;
+&lt;center&gt;&lt;br&gt;&lt;img src=&quot;/2018/05/01/motm-12/Qt_logo_2016.png&quot;&gt;&lt;br&gt;&lt;/center&gt;
+
+&lt;p&gt;It’s all about consistent multi-platform development, across a wide range of use-cases, much more than just single desktop and mobile applications.  Vehicles, refrigerators, automation, and more!  Feel free to check out the &lt;a href=&quot;https://www.qt.io&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Qt&lt;/a&gt; website for some additional overview content, but what better than some real-world demos, feedback, and discussion?  We’ll be hearing from Alec Weaver, who has been working with the platform to create some interesting applications.  I’m looking forward to a great session and some great discussions about how Qt might be able to be applied.&lt;/p&gt;
+&lt;p&gt;Join us on &lt;strong&gt;Thursday, May 3rd at 6:30pm&lt;/strong&gt; in Bonner Springs at &lt;a href=&quot;http://thirdspacecoffeehouse.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Third Space Coffee&lt;/a&gt;.  Feel free to come by a little beforehand to get a tasty coffee or snack and chat about things tech and otherwise–there is a nice deck out back as well to enjoy the nice evening weather.  &lt;/p&gt;
+&lt;p&gt;I’d like to take a moment to give a shout out to our continued sponsor for 2018, &lt;strong&gt;&lt;a href=&quot;https://www.jetbrains.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;JetBrains&lt;/a&gt;&lt;/strong&gt;, who has been generous to offer us licenses to their extensive collection of IDE’s and other tools as offerings in our monthly raffle.  &lt;/p&gt;
+&lt;center&gt;&lt;br&gt;&lt;img src=&quot;/images/jetbrains.svg&quot; title=&quot;JetBrains Logo&quot;&gt;&lt;br&gt;&lt;/center&gt;
+
+&lt;p&gt;We’re always looking for some additional topic ideas, so please feel free to send us a note via our &lt;a href=&quot;https://kevincollins3.typeform.com/to/eoGgpP&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;MotM Topic Submission Form&lt;/a&gt;!  Thanks as always and Happy Coding!&lt;/p&gt;
+&lt;p&gt;–Kevin Collins&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Meeting of the Minds #11</title>
     <link href="http://kctechgroup.org/2018/03/31/motm-11/"/>
     <id>http://kctechgroup.org/2018/03/31/motm-11/</id>
     <published>2018-04-01T01:22:26.000Z</published>
-    <updated>2018-04-01T01:22:44.864Z</updated>
+    <updated>2018-05-02T00:33:19.356Z</updated>
     
     <content type="html"><![CDATA[<p>Though it looks as though we might be in for a chilly Easter, things are generally warming and and we’re starting to see some green on the ground.  We’re getting close to our next MotM session about <a href="https://www.thethingsnetwork.org" target="_blank" rel="noopener">The Things Network</a>, which should yield some pretty interesting discussion!  Our presenter this month attended the first <a href="https://www.thethingsnetwork.org/conference/" target="_blank" rel="noopener">The Things Network Conference</a> in Amsterdam this year and has a lot of great insight into the underlying <a href="https://www.lora-alliance.org/what-is-lora" target="_blank" rel="noopener">LoRaWAN</a> technology driving one of the many waves of the so-called Internet of Things (IoT).</p>
+<a id="more"></a>
 <img src="/2018/03/31/motm-11/IMG_4204.JPG">
 <p>I’m hoping we can build more on some of the great discussions we had during <a href="/2018/02/17/motm-10/" title="MotM-10">MotM-10</a>.  Part of what makes Meeting of the Minds interesting is not just the tech itself but the insights from everyone regarding how it can be applied (and also, sometimes, the why).  LoRaWAN, one of a few emerging Low-Power Wide Area Network (LPWAN) technologies, has some unique properties that enable some fascinating possibilities for sensor deployments.  I’m sure everyone will have some neat ideas to chat about.</p>
 <p>We’ll be meeting again on <strong>Thursday, April 5th at 6:30pm</strong> in Bonner Springs at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee</a>.  We’ve reserved the conference room for 6:30pm, but we usually gather before than–after all, there is great coffee and tasty bits to be had there.  Come a little earlier to get things going even sooner!</p>
@@ -31,19 +71,11 @@
 <p>In 2018, we’re continuing to raffle off a license to one of <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains’</a></strong> wonderful IDE’s.  If you end up working with Python at all, it is difficult to match the features and functionality of their <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener">PyCharm</a> environment.  They’ve got a bunch of great products, but I couldn’t help mentioning PyCharm after having it really help me out a lot over the past months.  It continues to be great to have their support for KC Tech Group.</p>
 <p>Have a great Easter and happy coding!</p>
 <p>–Kevin Collins</p>
-<a id="more"></a>]]></content>
+]]></content>
     
     <summary type="html">
     
       &lt;p&gt;Though it looks as though we might be in for a chilly Easter, things are generally warming and and we’re starting to see some green on the ground.  We’re getting close to our next MotM session about &lt;a href=&quot;https://www.thethingsnetwork.org&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;The Things Network&lt;/a&gt;, which should yield some pretty interesting discussion!  Our presenter this month attended the first &lt;a href=&quot;https://www.thethingsnetwork.org/conference/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;The Things Network Conference&lt;/a&gt; in Amsterdam this year and has a lot of great insight into the underlying &lt;a href=&quot;https://www.lora-alliance.org/what-is-lora&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;LoRaWAN&lt;/a&gt; technology driving one of the many waves of the so-called Internet of Things (IoT).&lt;/p&gt;
-&lt;img src=&quot;/2018/03/31/motm-11/IMG_4204.JPG&quot;&gt;
-&lt;p&gt;I’m hoping we can build more on some of the great discussions we had during &lt;a href=&quot;/2018/02/17/motm-10/&quot; title=&quot;MotM-10&quot;&gt;MotM-10&lt;/a&gt;.  Part of what makes Meeting of the Minds interesting is not just the tech itself but the insights from everyone regarding how it can be applied (and also, sometimes, the why).  LoRaWAN, one of a few emerging Low-Power Wide Area Network (LPWAN) technologies, has some unique properties that enable some fascinating possibilities for sensor deployments.  I’m sure everyone will have some neat ideas to chat about.&lt;/p&gt;
-&lt;p&gt;We’ll be meeting again on &lt;strong&gt;Thursday, April 5th at 6:30pm&lt;/strong&gt; in Bonner Springs at &lt;a href=&quot;http://thirdspacecoffeehouse.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Third Space Coffee&lt;/a&gt;.  We’ve reserved the conference room for 6:30pm, but we usually gather before than–after all, there is great coffee and tasty bits to be had there.  Come a little earlier to get things going even sooner!&lt;/p&gt;
-&lt;center&gt;&lt;br&gt;&lt;img src=&quot;/images/jetbrains.svg&quot; title=&quot;JetBrains Logo&quot;&gt;&lt;br&gt;&lt;/center&gt;
-
-&lt;p&gt;In 2018, we’re continuing to raffle off a license to one of &lt;strong&gt;&lt;a href=&quot;https://www.jetbrains.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;JetBrains’&lt;/a&gt;&lt;/strong&gt; wonderful IDE’s.  If you end up working with Python at all, it is difficult to match the features and functionality of their &lt;a href=&quot;https://www.jetbrains.com/pycharm/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PyCharm&lt;/a&gt; environment.  They’ve got a bunch of great products, but I couldn’t help mentioning PyCharm after having it really help me out a lot over the past months.  It continues to be great to have their support for KC Tech Group.&lt;/p&gt;
-&lt;p&gt;Have a great Easter and happy coding!&lt;/p&gt;
-&lt;p&gt;–Kevin Collins&lt;/p&gt;
     
     </summary>
     
@@ -57,10 +89,9 @@
     <link href="http://kctechgroup.org/2018/02/17/motm-10/"/>
     <id>http://kctechgroup.org/2018/02/17/motm-10/</id>
     <published>2018-02-18T02:07:00.000Z</published>
-    <updated>2018-04-01T00:21:44.202Z</updated>
+    <updated>2018-05-02T00:09:47.307Z</updated>
     
     <content type="html"><![CDATA[<p>We’re back in the swing of things for 2018, looking forward to Spring! 🌱 🌷  Since we’re not quite there yet, I’ll try and keep your mind busy with the next Meeting of the Minds topic for March!  Vehicles today are more advanced than ever with sophisticated chassis control, automated driving aids, and even more fuel efficient drivetrains.  More and more of the components whose only possibility for improvement depended on turning a wrench or swapping out parts can now be customized through changing some bits in the ever-growing number of computerized controllers that are onboard.</p>
-<a id="more"></a>
 <p>Alright, alright, so we’re going to learn how to adjust fuel injection parameters and spark advance curves?  Nope, instead we’re going to focus on an area of vehicle customization that has been out of reach in times past.  General Motors (and perhaps others) now offers a development SDK for creating custom applications that run on the built-in touchscreen infotainment systems in newer cars.  Best of all, you develop these applications using open technologies such as Node.js! 😎  Check it out on their site for <a href="https://developer.gm.com/ngi" target="_blank" rel="noopener">Next Generation Infotainment</a>.</p>
 <p>Join us at <strong>6:30pm</strong> on <strong>March 1st, 2018</strong> in the Conference Room at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS.  I’ll be giving a demo of this system along with a proof-of-concept application (source code will be available on our <a href="https://github.com/kctechgroup" target="_blank" rel="noopener">Github</a> page afterwards).  It should be an entertaining (that part is on me) presentation and discussion (this part is partially on all of you), so come and join the fun!</p>
 <center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center>
@@ -72,7 +103,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;We’re back in the swing of things for 2018, looking forward to Spring! 🌱 🌷  Since we’re not quite there yet, I’ll try and keep your mind busy with the next Meeting of the Minds topic for March!  Vehicles today are more advanced than ever with sophisticated chassis control, automated driving aids, and even more fuel efficient drivetrains.  More and more of the components whose only possibility for improvement depended on turning a wrench or swapping out parts can now be customized through changing some bits in the ever-growing number of computerized controllers that are onboard.&lt;/p&gt;
+      &lt;p&gt;We’re back in the swing of things for 2018, looking forward to Spring! 🌱 🌷  Since we’re not quite there yet, I’ll try and keep your min
     
     </summary>
     
