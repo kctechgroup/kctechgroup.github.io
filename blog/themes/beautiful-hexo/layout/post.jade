@@ -13,6 +13,9 @@ block header
                             h1= page.title
                             if page.subtitle
                                 h2.post-subheading= page.subtitle
+                            if page.location
+                                h2.post-location Location: 
+                                    a(href=page.location_link)= page.location
                             +post_meta(page.date, page.tags)
 
 block content
