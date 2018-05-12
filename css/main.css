@@ -397,6 +397,14 @@ footer .theme-by {
 .intro-header.big-img .post-heading .post-subheading {
   font-weight: 400;
 }
+.intro-header .post-heading .post-location { /* adding location styling for posts */
+  font-size: 18px;
+  line-height: 1.1;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 250;
+  
+}
 .intro-header.big-img .page-heading hr {
   box-shadow: 1px 1px 3px #000;
   -webkit-box-shadow: 1px 1px 3px #000;
