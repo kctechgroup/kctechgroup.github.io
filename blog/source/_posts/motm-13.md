@@ -25,7 +25,9 @@ Finally, we're looking for more discussion topics for future sessions, so please
 That's all I have for now.  Enjoy the weather everyone, don't forget to go outside and do a little analog processing; all the same, happy coding as well!  😎
 
 --Kevin Collins
-
+<span class='post-entry-small'>
+_UPDATE_:  As it turned out during preparing materials for this MotM, Heroku is really just for deploying web applications.  It supports WebSockets, but you can't deploy an application that listens on an arbitrary TCP socket--something that you need if you're going to perform device simulation as my hopes outlined above.  As we discussed during the session, you can have what are called "worker" dynos to perform background tasks, but they won't be reachable externally.  Thanks to those who made it out, and we're all looking forward to a great rest of 2018, to be continued with a session on ZeroMQ in July!
+</span>
 <!-- more -->
 
 [Heroku]: https://www.heroku.com "Heroku"
