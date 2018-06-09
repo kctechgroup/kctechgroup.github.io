@@ -322,8 +322,13 @@ footer .theme-by {
   font-style: italic;
   margin: 0 0 10px;
 }
-.post-preview .post-entry {
+.post-preview .post-entry,
+.blog-post {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.post-entry .post-entry-small,
+.blog-post .post-entry-small {
+  font-size: 14px;
 }
 .post-preview .post-read-more {
   font-weight: 800;
