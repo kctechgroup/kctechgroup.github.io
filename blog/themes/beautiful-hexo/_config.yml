@@ -1,8 +1,7 @@
 navbar-links:
-    Archive: /archives
     Meetups: /meetups
     MindMap: /mindmap
-    Github: https://github.com/kctechgroup
+    Education: /education
     Slack: /slack
     About: /about/
 
@@ -47,11 +46,6 @@ footer:
     title: GitHub
     icon: fa-github
     enable: true
-  rss:
-    link: '/atom.xml'
-    title: RSS
-    icon: fa-rss
-    enable: true
   twitter:
     link: 'https://twitter.com/twoyao_'
     title: Twitter
@@ -72,6 +66,21 @@ footer:
     title: StackOverflow
     icon: fa-stack-overflow
     enable: false
+  slack:
+    link: /slack
+    title: Slack
+    icon: fa-slack
+    enable: true
+  rss:
+    link: '/atom.xml'
+    title: RSS
+    icon: fa-rss
+    enable: true
+  archive:
+    link: '/archives'
+    title: Archives
+    icon: fa-archive
+    enable: true
 
 google_analytics:
 
