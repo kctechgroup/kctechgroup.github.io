@@ -1,6 +1,7 @@
 ---
 title: meetups
 date: 2017-12-31 17:28:00
+comment_disable: true
 ---
 
 ## Meeting of the Minds
