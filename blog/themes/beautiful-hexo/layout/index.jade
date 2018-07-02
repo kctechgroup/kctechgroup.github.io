@@ -15,6 +15,9 @@ block content
                             if post.subtitle
                                 h3.post-subtitle!= post.subtitle
                         include partial/post-meta
+                        if post.location
+                            h2.post-location Location: 
+                                a(href=post.location_link)= post.location
                         +post_meta(post.date, post.tags)
                         .post-entry!= post.excerpt
                         a(href=url_for(post.path), class="post-read-more")!= __('more')

@@ -9,8 +9,6 @@ date: 2018-05-01 19:11:26
 
 Spring seems to have sprung for the most part 🌷🚜--I've had to mow my lawn, so I think that counts.  Meeting of the Minds is off to the races for 2018 and we've got a great framework to take a look at.  The [Qt Framework](https://www.qt.io) (pronounced "cute") has grown considerably since the last time I was pseudo-familiar with it.  I remember it from back in the days of the [GNOME](https://www.gnome.org) vs [KDE](https://www.kde.org) battles on the Linux Desktop.  GNOME used the GTK+ graphical toolkit, and KDE used Qt.  Taking a peek at things lately yields the realization that a **LOT** has happened since those early days.
 
-<!-- more -->
-
 <center>
 {% asset_img Qt_logo_2016.png %}
 </center>
