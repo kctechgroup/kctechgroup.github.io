@@ -9,8 +9,8 @@ Our _Meeting of the Minds_ sessions are _typically_ held the first Thursday of e
 
 | Session                       | Date / Time             | Topic                                 |
 | ----------------------------- | ----------------------- | ---------------------------------------- |
-| MotM-14 | Thursday, July 5, 2018 @ 6:30pm | _Pending_
-| **{% post_link motm-13 MotM-13 %}** | **Thursday, June 7th, 2018 @ 6:30pm** | **[Heroku](https://www.heroku.com)**
+| **{% post_link motm-14 MotM-14 %}** | **Thursday, July 5, 2018 @ 6:30pm** | **[ZeroMQ](http://zeromq.org)**
+| {% post_link motm-13 MotM-13 %} | Thursday, June 7th, 2018 @ 6:30pm | [Heroku](https://www.heroku.com)
 | {% post_link motm-12 MotM-12 %} | Thursday, May 3rd, 2018 @ 6:30pm | [Qt](https://www.qt.io) Frameworks
 | {% post_link motm-11 MotM-11 %} | Thursday, Apr 5th, 2018 @ 6:30pm | [The Things Network](https://www.thethingsnetwork.org)
 | {% post_link motm-10 MotM-10 %} | Thursday, Mar 1st, 2018 @ 6:30pm | [GM Infotainment System Apps](https://developer.gm.com)
