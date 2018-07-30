@@ -2,28 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kctechgroup.org/meetups/index.html</loc>
+    <loc>http://kctechgroup.org/2018/07/29/motm-15/</loc>
     
-    <lastmod>2018-07-08T18:24:52.233Z</lastmod>
+    <lastmod>2018-07-30T02:21:06.869Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://kctechgroup.org/2018/07/01/motm-14/</loc>
     
-    <lastmod>2018-07-05T18:49:04.286Z</lastmod>
+    <lastmod>2018-07-30T02:10:49.265Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://kctechgroup.org/2018/05/01/motm-12/</loc>
+    <loc>http://kctechgroup.org/slack/index.html</loc>
     
-    <lastmod>2018-07-02T02:14:48.678Z</lastmod>
+    <lastmod>2018-07-30T02:09:00.902Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://kctechgroup.org/2018/05/12/motm-13/</loc>
+    
+    <lastmod>2018-07-30T02:00:49.488Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/meetups/index.html</loc>
+    
+    <lastmod>2018-07-30T01:59:51.777Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/2018/05/01/motm-12/</loc>
     
     <lastmod>2018-07-02T02:14:48.678Z</lastmod>
     
@@ -65,14 +79,14 @@
   </url>
   
   <url>
-    <loc>http://kctechgroup.org/2017/12/31/close-2017/</loc>
+    <loc>http://kctechgroup.org/2017/10/15/motm-7/</loc>
     
     <lastmod>2018-01-01T02:57:41.162Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://kctechgroup.org/2017/10/15/motm-7/</loc>
+    <loc>http://kctechgroup.org/2017/12/31/close-2017/</loc>
     
     <lastmod>2018-01-01T02:57:41.162Z</lastmod>
     
@@ -117,13 +131,6 @@
     <loc>http://kctechgroup.org/about/index.html</loc>
     
     <lastmod>2017-06-24T22:22:50.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/slack/index.html</loc>
-    
-    <lastmod>2017-06-16T17:04:46.000Z</lastmod>
     
   </url>
   
