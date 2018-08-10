@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kctechgroup.org/"/>
-  <updated>2018-07-30T02:21:06.869Z</updated>
+  <updated>2018-08-10T17:42:52.375Z</updated>
   <id>http://kctechgroup.org/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Meeting of the Minds - Hackathon Ed.</title>
-    <link href="http://kctechgroup.org/2018/07/29/motm-15/"/>
-    <id>http://kctechgroup.org/2018/07/29/motm-15/</id>
+    <link href="http://kctechgroup.org/MotM/15/"/>
+    <id>http://kctechgroup.org/MotM/15/</id>
     <published>2018-07-30T01:43:00.000Z</published>
-    <updated>2018-07-30T02:21:06.869Z</updated>
+    <updated>2018-08-10T17:42:52.375Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Rescheduled-to-September-6th"><a href="#Rescheduled-to-September-6th" class="headerlink" title="Rescheduled to September 6th!"></a><div style="color: #E43D4F;"><em>Rescheduled to September 6th!</em></div></h3><p>For MotM #15, we’ve got something special planned!  Unfortunately, we need a bit more time to put it all together.  Instead of the normal presentation on a given topic, we’d like to invite folks to come and have a go at one or more of the technologies that we’ve covered over the past year.  This could mean that you have a go at implementing ZeroMQ, or you finally get around to running through that Python tutorial you were looking at.  Whatever it may be, join us for a fun time!</p><p>We’re working on getting some laptops provisioned for folks to use as well, so if you don’t have a machine to use we can help you out.  <em>Stay tuned for more details and information!</em></p><p>Another mention on the <strong><a href="https://www.jetbrains.com" title="Jetbrains" target="_blank" rel="noopener">JetBrains</a></strong> front: <strong>PyCharm 2018.2</strong> was released recently with support for <em>Pipenv</em> and a lot more!  Read more on their <a href="https://www.jetbrains.com/pycharm/whatsnew/" target="_blank" rel="noopener">What’s New</a> page!  We’ve been blessed to have JetBrains as a continued sponsor for KC Tech Group–we thank them for their support.  We’re also pretty excited about their latest releases!</p><center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center><p>Anybody who is interested in diving into some Python during our Hackathon in September can definitely dip their toes into <a href="https://www.jetbrains.com/pycharm/" title="PyCharm" target="_blank" rel="noopener">PyCharm</a> at the same time.  I’ll be there proclaiming its wonder.  😀</p><p>Have a great rest of the summer, and we’ll see you in September!  Happy Coding!</p><p>–Kevin Collins</p><a id="more"></a>]]></content>
     
@@ -38,6 +38,8 @@
     
     </summary>
     
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
+    
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
     
@@ -47,10 +49,10 @@
   
   <entry>
     <title>Meeting of the Minds #14</title>
-    <link href="http://kctechgroup.org/2018/07/01/motm-14/"/>
-    <id>http://kctechgroup.org/2018/07/01/motm-14/</id>
+    <link href="http://kctechgroup.org/MotM/14/"/>
+    <id>http://kctechgroup.org/MotM/14/</id>
     <published>2018-07-02T02:10:00.000Z</published>
-    <updated>2018-07-30T02:10:49.265Z</updated>
+    <updated>2018-08-10T17:42:28.592Z</updated>
     
     <content type="html"><![CDATA[<p>Summer is here for sure and the heat reminds us daily of the contrast of Kansas seasons.  We had a brief reprieve with some cooler temperatures earlier in June.  Thankfully there has been some rain recently which has helped quell the otherwise persistent heat.  Alright, so weather not withstanding, what’s going on in July with KC Tech Group?  We’re covering <a href="http://zeromq.org" title="ZeroMQ" target="_blank" rel="noopener">ZeroMQ</a> in all of its patriotic glory this month!  That’s right, just because July 4th is on Wednesday doesn’t mean we’re resting easy.  😎<br><a id="more"></a></p><p><a href="http://zeromq.org" title="ZeroMQ" target="_blank" rel="noopener">ZeroMQ</a> is a distributed messaging infrastructure that you can add to your application with relative ease.  Learn more about it by reviewing the <a href="http://zeromq.org/intro:read-the-manual" target="_blank" rel="noopener">Learn the Basics</a> section of their website.  There are even some nice videos there to bring up into context quickly.  <strong>However</strong>, one great way to learn more about it is to join the discussion at our next Meeting of the Minds session this Thursday!  We’ve reserved space at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> so you can enjoy some tasty coffee, dinner and/or snacks while learning about <a href="http://zeromq.org" title="ZeroMQ" target="_blank" rel="noopener">ZeroMQ</a>!</p><p>Also, don’t forget about our monthly raffle of a free license to one of <strong><a href="https://www.jetbrains.com" title="Jetbrains" target="_blank" rel="noopener">JetBrains</a></strong> great products!</p><center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center><p>If you’re a fan of great tools that really help increase your productivity and efficiency, <strong><a href="https://www.jetbrains.com" title="Jetbrains" target="_blank" rel="noopener">JetBrains</a></strong> is definitely one to check out.  We thank them for sponsoring KC Tech Group!</p><p>That’s it for now.  We look forward to seeing you and hope you can join the discussion at Meeting of the Minds #14!  See you there!  Happy Coding!  🧐</p><p>–Kevin Collins</p>]]></content>
     
@@ -60,6 +62,8 @@
     
     </summary>
     
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
+    
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
     
@@ -67,12 +71,12 @@
   
   <entry>
     <title>Meeting of the Minds #13</title>
-    <link href="http://kctechgroup.org/2018/05/12/motm-13/"/>
-    <id>http://kctechgroup.org/2018/05/12/motm-13/</id>
+    <link href="http://kctechgroup.org/MotM/13/"/>
+    <id>http://kctechgroup.org/MotM/13/</id>
     <published>2018-05-12T15:53:26.000Z</published>
-    <updated>2018-07-30T02:00:49.488Z</updated>
+    <updated>2018-08-10T17:42:25.693Z</updated>
     
-    <content type="html"><![CDATA[<p>The growing season has been a little late this year and it feels a bit like we may have skipped Spring straight over to Summer 🔥 here in Kansas, but I think I’m happier with the cold having moved on.  The wind has also calmed itself more lately.  However, since I can’t resist a good pun, the winds of change are still strong at work and that certainly helps us consider new and improved ways of deploying some of our applications!  &lt;– Great segway, yeah?  😆 🤓</p><p>The topic for June’s Meeting of the Minds session is Heroku, and yours truly will be doing the presentation.  I’ve been intrigued by <a href="https://www.heroku.com" title="Heroku" target="_blank" rel="noopener">Heroku</a> and its offerings since I became enamoured with container computing more than a year ago.  Lately I’ve actually been putting it to good use deploying some <a href="https://www.mkdocs.org" title="MkDocs" target="_blank" rel="noopener">MkDocs</a> solutions for customer review.  We’ll be reviewing at least the core offering (there is a <em>lot</em> more under the Heroku umbrella) at MotM-13 with some discussion and application demos.  At <a href="/2018/05/01/motm-12/" title="MotM-12">MotM-12</a>, we discussed the plans for this upcoming session and mentioned a Modbus simulator as a good demo app to implement and deploy via Heroku.  If you have any other application suggestions (remember, these will be demos! 😀) please join us in the discussion over in our <a href="/slack">Slack</a> group or leave a comment below.</p><p>I’m pretty excited to demonstrate how even the free tier of <a href="https://www.heroku.com" title="Heroku" target="_blank" rel="noopener">Heroku</a> can be used to host some great application content.  It isn’t just about web pages either–our Modbus simulator will be emulating remote device behavior, and our documentation demo is a great way to host documentation packages.  Combine these with a custom domain name integrations and you can have a pretty broad set of functionality without much hosting upkeep!  I look forward to some wonderful brainstorming on this during next month’s session.</p><p>If I haven’t just completely convinced you to drop by yet, don’t forget that each month we raffle off a free license to one of <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains’</a></strong> amazing developer tool offerings!  We’re very happy to have them as a continuing sponsor of our group.  Come by and take advantage with a chance to leverage their productivity enhancing IDE’s or refactor/linting tools.</p><center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center><p>Finally, we’re looking for more discussion topics for future sessions, so please let us know if you have interest in a particular discussion topic.  I’ve updated our <a href="/mindmap">Mindmap</a> with some more topic ideas–let’s build that list out even more and get some folks lined up to dive in on these!</p><p>That’s all I have for now.  Enjoy the weather everyone, don’t forget to go outside and do a little analog processing; all the same, happy coding as well!  😎</p><p>–Kevin Collins<br><span class="post-entry-small"><br><em>UPDATE</em>:  As it turned out during preparing materials for this MotM, Heroku is really just for deploying web applications.  It supports WebSockets, but you can’t deploy an application that listens on an arbitrary TCP socket–something that you need if you’re going to perform device simulation as my hopes outlined above.  As we discussed during the session, you can have what are called “worker” dynos to perform background tasks, but they won’t be reachable externally.  Thanks to those who made it out, and we’re all looking forward to a great rest of 2018, to be continued with a session on ZeroMQ in July!<br></span></p>]]></content>
+    <content type="html"><![CDATA[<p>The growing season has been a little late this year and it feels a bit like we may have skipped Spring straight over to Summer 🔥 here in Kansas, but I think I’m happier with the cold having moved on.  The wind has also calmed itself more lately.  However, since I can’t resist a good pun, the winds of change are still strong at work and that certainly helps us consider new and improved ways of deploying some of our applications!  &lt;– Great segway, yeah?  😆 🤓</p><p>The topic for June’s Meeting of the Minds session is Heroku, and yours truly will be doing the presentation.  I’ve been intrigued by <a href="https://www.heroku.com" title="Heroku" target="_blank" rel="noopener">Heroku</a> and its offerings since I became enamoured with container computing more than a year ago.  Lately I’ve actually been putting it to good use deploying some <a href="https://www.mkdocs.org" title="MkDocs" target="_blank" rel="noopener">MkDocs</a> solutions for customer review.  We’ll be reviewing at least the core offering (there is a <em>lot</em> more under the Heroku umbrella) at MotM-13 with some discussion and application demos.  At , we discussed the plans for this upcoming session and mentioned a Modbus simulator as a good demo app to implement and deploy via Heroku.  If you have any other application suggestions (remember, these will be demos! 😀) please join us in the discussion over in our <a href="/slack">Slack</a> group or leave a comment below.</p><p>I’m pretty excited to demonstrate how even the free tier of <a href="https://www.heroku.com" title="Heroku" target="_blank" rel="noopener">Heroku</a> can be used to host some great application content.  It isn’t just about web pages either–our Modbus simulator will be emulating remote device behavior, and our documentation demo is a great way to host documentation packages.  Combine these with a custom domain name integrations and you can have a pretty broad set of functionality without much hosting upkeep!  I look forward to some wonderful brainstorming on this during next month’s session.</p><p>If I haven’t just completely convinced you to drop by yet, don’t forget that each month we raffle off a free license to one of <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains’</a></strong> amazing developer tool offerings!  We’re very happy to have them as a continuing sponsor of our group.  Come by and take advantage with a chance to leverage their productivity enhancing IDE’s or refactor/linting tools.</p><center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center><p>Finally, we’re looking for more discussion topics for future sessions, so please let us know if you have interest in a particular discussion topic.  I’ve updated our <a href="/mindmap">Mindmap</a> with some more topic ideas–let’s build that list out even more and get some folks lined up to dive in on these!</p><p>That’s all I have for now.  Enjoy the weather everyone, don’t forget to go outside and do a little analog processing; all the same, happy coding as well!  😎</p><p>–Kevin Collins<br><span class="post-entry-small"><br><em>UPDATE</em>:  As it turned out during preparing materials for this MotM, Heroku is really just for deploying web applications.  It supports WebSockets, but you can’t deploy an application that listens on an arbitrary TCP socket–something that you need if you’re going to perform device simulation as my hopes outlined above.  As we discussed during the session, you can have what are called “worker” dynos to perform background tasks, but they won’t be reachable externally.  Thanks to those who made it out, and we’re all looking forward to a great rest of 2018, to be continued with a session on ZeroMQ in July!<br></span></p>]]></content>
     
     <summary type="html">
     
@@ -83,6 +87,8 @@
     
     </summary>
     
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
+    
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
     
@@ -90,12 +96,12 @@
   
   <entry>
     <title>Meeting of the Minds #12</title>
-    <link href="http://kctechgroup.org/2018/05/01/motm-12/"/>
-    <id>http://kctechgroup.org/2018/05/01/motm-12/</id>
+    <link href="http://kctechgroup.org/MotM/12/"/>
+    <id>http://kctechgroup.org/MotM/12/</id>
     <published>2018-05-02T00:11:26.000Z</published>
-    <updated>2018-07-02T02:14:48.678Z</updated>
+    <updated>2018-08-10T17:42:20.650Z</updated>
     
-    <content type="html"><![CDATA[<p>Spring seems to have sprung for the most part 🌷🚜–I’ve had to mow my lawn, so I think that counts.  Meeting of the Minds is off to the races for 2018 and we’ve got a great framework to take a look at.  The <a href="https://www.qt.io" target="_blank" rel="noopener">Qt Framework</a> (pronounced “cute”) has grown considerably since the last time I was pseudo-familiar with it.  I remember it from back in the days of the <a href="https://www.gnome.org" target="_blank" rel="noopener">GNOME</a> vs <a href="https://www.kde.org" target="_blank" rel="noopener">KDE</a> battles on the Linux Desktop.  GNOME used the GTK+ graphical toolkit, and KDE used Qt.  Taking a peek at things lately yields the realization that a <strong>LOT</strong> has happened since those early days.</p><center><br><img src="/2018/05/01/motm-12/Qt_logo_2016.png"><br></center><p>It’s all about consistent multi-platform development, across a wide range of use-cases, much more than just single desktop and mobile applications.  Vehicles, refrigerators, automation, and more!  Feel free to check out the <a href="https://www.qt.io" target="_blank" rel="noopener">Qt</a> website for some additional overview content, but what better than some real-world demos, feedback, and discussion?  We’ll be hearing from Alec Weaver, who has been working with the platform to create some interesting applications.  I’m looking forward to a great session and some great discussions about how Qt might be able to be applied.</p><p>Join us on <strong>Thursday, May 3rd at 6:30pm</strong> in Bonner Springs at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee</a>.  Feel free to come by a little beforehand to get a tasty coffee or snack and chat about things tech and otherwise–there is a nice deck out back as well to enjoy the nice evening weather.  </p><p>I’d like to take a moment to give a shout out to our continued sponsor for 2018, <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains</a></strong>, who has been generous to offer us licenses to their extensive collection of IDE’s and other tools as offerings in our monthly raffle.  </p><center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center><p>We’re always looking for some additional topic ideas, so please feel free to send us a note via our <a href="https://kevincollins3.typeform.com/to/eoGgpP" target="_blank" rel="noopener">MotM Topic Submission Form</a>!  Thanks as always and Happy Coding!</p><p>–Kevin Collins</p>]]></content>
+    <content type="html"><![CDATA[<p>Spring seems to have sprung for the most part 🌷🚜–I’ve had to mow my lawn, so I think that counts.  Meeting of the Minds is off to the races for 2018 and we’ve got a great framework to take a look at.  The <a href="https://www.qt.io" target="_blank" rel="noopener">Qt Framework</a> (pronounced “cute”) has grown considerably since the last time I was pseudo-familiar with it.  I remember it from back in the days of the <a href="https://www.gnome.org" target="_blank" rel="noopener">GNOME</a> vs <a href="https://www.kde.org" target="_blank" rel="noopener">KDE</a> battles on the Linux Desktop.  GNOME used the GTK+ graphical toolkit, and KDE used Qt.  Taking a peek at things lately yields the realization that a <strong>LOT</strong> has happened since those early days.</p><center><br><img src="/MotM/12/Qt_logo_2016.png"><br></center><p>It’s all about consistent multi-platform development, across a wide range of use-cases, much more than just single desktop and mobile applications.  Vehicles, refrigerators, automation, and more!  Feel free to check out the <a href="https://www.qt.io" target="_blank" rel="noopener">Qt</a> website for some additional overview content, but what better than some real-world demos, feedback, and discussion?  We’ll be hearing from Alec Weaver, who has been working with the platform to create some interesting applications.  I’m looking forward to a great session and some great discussions about how Qt might be able to be applied.</p><p>Join us on <strong>Thursday, May 3rd at 6:30pm</strong> in Bonner Springs at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee</a>.  Feel free to come by a little beforehand to get a tasty coffee or snack and chat about things tech and otherwise–there is a nice deck out back as well to enjoy the nice evening weather.  </p><p>I’d like to take a moment to give a shout out to our continued sponsor for 2018, <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains</a></strong>, who has been generous to offer us licenses to their extensive collection of IDE’s and other tools as offerings in our monthly raffle.  </p><center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center><p>We’re always looking for some additional topic ideas, so please feel free to send us a note via our <a href="https://kevincollins3.typeform.com/to/eoGgpP" target="_blank" rel="noopener">MotM Topic Submission Form</a>!  Thanks as always and Happy Coding!</p><p>–Kevin Collins</p>]]></content>
     
     <summary type="html">
     
@@ -106,6 +112,8 @@
     
     </summary>
     
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
+    
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
     
@@ -113,12 +121,12 @@
   
   <entry>
     <title>Meeting of the Minds #11</title>
-    <link href="http://kctechgroup.org/2018/03/31/motm-11/"/>
-    <id>http://kctechgroup.org/2018/03/31/motm-11/</id>
+    <link href="http://kctechgroup.org/MotM/11/"/>
+    <id>http://kctechgroup.org/MotM/11/</id>
     <published>2018-04-01T01:22:26.000Z</published>
-    <updated>2018-05-12T18:19:03.976Z</updated>
+    <updated>2018-08-10T17:42:17.528Z</updated>
     
-    <content type="html"><![CDATA[<p>Though it looks as though we might be in for a chilly Easter, things are generally warming and and we’re starting to see some green on the ground.  We’re getting close to our next MotM session about <a href="https://www.thethingsnetwork.org" target="_blank" rel="noopener">The Things Network</a>, which should yield some pretty interesting discussion!  Our presenter this month attended the first <a href="https://www.thethingsnetwork.org/conference/" target="_blank" rel="noopener">The Things Network Conference</a> in Amsterdam this year and has a lot of great insight into the underlying <a href="https://www.lora-alliance.org/what-is-lora" target="_blank" rel="noopener">LoRaWAN</a> technology driving one of the many waves of the so-called Internet of Things (IoT).</p><img src="/2018/03/31/motm-11/IMG_4204.JPG"><p>I’m hoping we can build more on some of the great discussions we had during <a href="/2018/02/17/motm-10/" title="MotM-10">MotM-10</a>.  Part of what makes Meeting of the Minds interesting is not just the tech itself but the insights from everyone regarding how it can be applied (and also, sometimes, the why).  LoRaWAN, one of a few emerging Low-Power Wide Area Network (LPWAN) technologies, has some unique properties that enable some fascinating possibilities for sensor deployments.  I’m sure everyone will have some neat ideas to chat about.</p><p>We’ll be meeting again on <strong>Thursday, April 5th at 6:30pm</strong> in Bonner Springs at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee</a>.  We’ve reserved the conference room for 6:30pm, but we usually gather before than–after all, there is great coffee and tasty bits to be had there.  Come a little earlier to get things going even sooner!</p><center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center><p>In 2018, we’re continuing to raffle off a license to one of <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains’</a></strong> wonderful IDE’s.  If you end up working with Python at all, it is difficult to match the features and functionality of their <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener">PyCharm</a> environment.  They’ve got a bunch of great products, but I couldn’t help mentioning PyCharm after having it really help me out a lot over the past months.  It continues to be great to have their support for KC Tech Group.</p><p>Have a great Easter and happy coding!</p><p>–Kevin Collins</p>]]></content>
+    <content type="html"><![CDATA[<p>Though it looks as though we might be in for a chilly Easter, things are generally warming and and we’re starting to see some green on the ground.  We’re getting close to our next MotM session about <a href="https://www.thethingsnetwork.org" target="_blank" rel="noopener">The Things Network</a>, which should yield some pretty interesting discussion!  Our presenter this month attended the first <a href="https://www.thethingsnetwork.org/conference/" target="_blank" rel="noopener">The Things Network Conference</a> in Amsterdam this year and has a lot of great insight into the underlying <a href="https://www.lora-alliance.org/what-is-lora" target="_blank" rel="noopener">LoRaWAN</a> technology driving one of the many waves of the so-called Internet of Things (IoT).</p><img src="/MotM/11/IMG_4204.JPG"><p>I’m hoping we can build more on some of the great discussions we had during .  Part of what makes Meeting of the Minds interesting is not just the tech itself but the insights from everyone regarding how it can be applied (and also, sometimes, the why).  LoRaWAN, one of a few emerging Low-Power Wide Area Network (LPWAN) technologies, has some unique properties that enable some fascinating possibilities for sensor deployments.  I’m sure everyone will have some neat ideas to chat about.</p><p>We’ll be meeting again on <strong>Thursday, April 5th at 6:30pm</strong> in Bonner Springs at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee</a>.  We’ve reserved the conference room for 6:30pm, but we usually gather before than–after all, there is great coffee and tasty bits to be had there.  Come a little earlier to get things going even sooner!</p><center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center><p>In 2018, we’re continuing to raffle off a license to one of <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains’</a></strong> wonderful IDE’s.  If you end up working with Python at all, it is difficult to match the features and functionality of their <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener">PyCharm</a> environment.  They’ve got a bunch of great products, but I couldn’t help mentioning PyCharm after having it really help me out a lot over the past months.  It continues to be great to have their support for KC Tech Group.</p><p>Have a great Easter and happy coding!</p><p>–Kevin Collins</p>]]></content>
     
     <summary type="html">
     
@@ -129,6 +137,8 @@
     
     </summary>
     
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
+    
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
     
@@ -136,10 +146,10 @@
   
   <entry>
     <title>Meeting of the Minds #10</title>
-    <link href="http://kctechgroup.org/2018/02/17/motm-10/"/>
-    <id>http://kctechgroup.org/2018/02/17/motm-10/</id>
+    <link href="http://kctechgroup.org/MotM/10/"/>
+    <id>http://kctechgroup.org/MotM/10/</id>
     <published>2018-02-18T02:07:00.000Z</published>
-    <updated>2018-05-12T15:52:42.373Z</updated>
+    <updated>2018-08-10T17:42:13.608Z</updated>
     
     <content type="html"><![CDATA[<p>We’re back in the swing of things for 2018, looking forward to Spring! 🌱 🌷  Since we’re not quite there yet, I’ll try and keep your mind busy with the next Meeting of the Minds topic for March!  Vehicles today are more advanced than ever with sophisticated chassis control, automated driving aids, and even more fuel efficient drivetrains.  More and more of the components whose only possibility for improvement depended on turning a wrench or swapping out parts can now be customized through changing some bits in the ever-growing number of computerized controllers that are onboard.</p><p>Alright, alright, so we’re going to learn how to adjust fuel injection parameters and spark advance curves?  Nope, instead we’re going to focus on an area of vehicle customization that has been out of reach in times past.  General Motors (and perhaps others) now offers a development SDK for creating custom applications that run on the built-in touchscreen infotainment systems in newer cars.  Best of all, you develop these applications using open technologies such as Node.js! 😎  Check it out on their site for <a href="https://developer.gm.com/ngi" target="_blank" rel="noopener">Next Generation Infotainment</a>.</p><p>Join us at <strong>6:30pm</strong> on <strong>March 1st, 2018</strong> in the Conference Room at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS.  I’ll be giving a demo of this system along with a proof-of-concept application (source code will be available on our <a href="https://github.com/kctechgroup" target="_blank" rel="noopener">Github</a> page afterwards).  It should be an entertaining (that part is on me) presentation and discussion (this part is partially on all of you), so come and join the fun!</p><center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center><p>We’re also back in action with our sponsor for Meeting of the Minds, <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong>.  We have a drawing each session for a free license to one of their great IDE’s or development tools.  You should really check them out–especially if you want to get your dev on.  😉 </p><p>Alright, I better get to coding.</p><p>–Kevin Collins</p>]]></content>
     
@@ -152,6 +162,8 @@
     
     </summary>
     
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
+    
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
     
@@ -159,10 +171,10 @@
   
   <entry>
     <title>Meeting of the Minds #9</title>
-    <link href="http://kctechgroup.org/2018/01/26/motm-9/"/>
-    <id>http://kctechgroup.org/2018/01/26/motm-9/</id>
+    <link href="http://kctechgroup.org/MotM/9/"/>
+    <id>http://kctechgroup.org/MotM/9/</id>
     <published>2018-01-26T23:00:15.000Z</published>
-    <updated>2018-04-01T00:19:00.511Z</updated>
+    <updated>2018-08-10T17:45:57.713Z</updated>
     
     <content type="html"><![CDATA[<p>Rested 😴 and refreshed 😌, KC Tech Group’s <em>Meeting of the Minds</em> (MotM) sessions are back for 2018!  We’re kicking things off with a presentation on <a href="https://jupyter.org" target="_blank" rel="noopener">Jupyter Notebook</a>.  This interesting project gives you a way to combine all sorts of content including live code from multiple languages, documentation, and interactive visualizations as well!  </p><p>Rather than spill all the beans, let’s just plan on stopping by <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS at <strong>6:30pm</strong> on <strong>Thursday, February 8th</strong> for some great coffee, company, and tech discussion!</p><p>We’ll be continuing our raffle for a <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong> product license in 2018, so if you’re at all interested in their great developer tools and products, this is a great way to possibly win a free license!  Even if you don’t, check out their community offerings that are available free of charge!  It has been great to have JetBrains’ support for our group and we’re happy to welcome them back as a sponsor for 2018.</p><center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center><p>We’ve got some other <a href="/meetups">MotM</a> topics lined up for 2018, let us know through our <a href="/slack">Slack</a> group if you’ve got some other ideas or would like to do a presentation!  So far, here are some of the topics on our radar:</p><ul><li>The Things Network </li><li>Block-chain Technology and Cryptocurrency 💰</li><li><em>your topic idea here</em> 🤨</li></ul><p>I’m looking forward to keeping things going in 2018.  Happy Coding!!  😎</p><p>–Kevin Collins</p>]]></content>
     
@@ -175,6 +187,8 @@
     
     </summary>
     
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
+    
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
     
@@ -182,12 +196,12 @@
   
   <entry>
     <title>Closing Out 2017</title>
-    <link href="http://kctechgroup.org/2017/12/31/close-2017/"/>
-    <id>http://kctechgroup.org/2017/12/31/close-2017/</id>
+    <link href="http://kctechgroup.org/uncategorized/close-2017/"/>
+    <id>http://kctechgroup.org/uncategorized/close-2017/</id>
     <published>2018-01-01T02:52:57.000Z</published>
-    <updated>2018-01-01T02:57:41.162Z</updated>
+    <updated>2018-08-10T17:38:12.394Z</updated>
     
-    <content type="html"><![CDATA[<p>As the year closes out, I think we all enjoy reflecting a bit on our achievements and accomplishments the past year brought us.  2017 saw, among a great many other things, the introduction of KC Technology Group.  Our trademark-worthy “Meeting of the Minds” sessions have been a forum for gathering and discussing various technology topics, industry trends, and whatever else may be on, well, our minds.  😜  I’ve very much enjoyed getting a chance to be introduced to some of the various projects out there in the wild.  It has also been great to hear about topics that everyone is passionate about.</p><p>We’re taking a brief respite in January, with our next Meeting of the Minds session targeted for <strong>Thursday, February 8th, 2018</strong>, so lets look back at 2017 and see what we covered…</p><a id="more"></a><h2 id="2017-Meeting-of-the-Minds"><a href="#2017-Meeting-of-the-Minds" class="headerlink" title="2017 Meeting of the Minds"></a>2017 Meeting of the Minds</h2><ul><li><strong>MotM-1</strong> - First Session!  GPIO access methodologies on Raspberry Pi!</li><li><strong><a href="/2017/05/17/motm-2/" title="MotM-2">MotM-2</a></strong> - Source Control <i class="fa fa-code-fork"></i></li><li><strong><a href="/2017/06/16/motm-3/" title="MotM-3">MotM-3</a></strong> - Static Site Generators</li><li><strong><a href="/2017/07/21/motm-4/" title="MotM-4">MotM-4</a></strong> - Communication Protocols</li><li><strong><a href="/2017/08/17/motm-5/" title="MotM-5">MotM-5</a></strong> - <a href="https://nodered.org" target="_blank" rel="noopener">Node-RED</a></li><li><strong><a href="/2017/09/22/motm-6/" title="MotM-6">MotM-6</a></strong> - <a href="https://home-assistant.io" target="_blank" rel="noopener">Home Assistant</a></li><li><strong><a href="/2017/10/15/motm-7/" title="MotM-7">MotM-7</a></strong> - Text Editors, Regular Expressions, and Ignition Community Conference 2017</li><li><strong><a href="/2017/11/27/motm-8/" title="MotM-8">MotM-8</a></strong> - Hilscher <a href="https://www.netiot.com/netpi/industrial-raspberry-pi-3/" target="_blank" rel="noopener">NetPI</a> and <a href="https://www.docker.com" target="_blank" rel="noopener">Docker</a></li></ul><p>We also began, at <a href="/2017/10/15/motm-7/" title="MotM-7">MotM-7</a>, a new intro series called “Pass the Mic”.  Kicking off the meeting, everyone gets a chance to briefly mention something that has caught there attention recently.  We’ve got some interesting hits so far and are looking forward to continuing this in 2018 with some better capture and follow-up on the website!  Let’s take a look at what we’ve covered so far:</p><h2 id="2017-Pass-the-Mic"><a href="#2017-Pass-the-Mic" class="headerlink" title="2017 Pass the Mic"></a>2017 Pass the Mic</h2><ul><li>Informational Dashboard Design 📱 - (link to Stephen Few’s website <a href="http://www.perceptualedge.com/library.php#Books" target="_blank" rel="noopener">here</a>)</li><li>Blockchain Technology and Cryptocurrency 💰</li><li>Sensor Clouds and Wide-Area Radio Networks ☁️</li><li>Wonderware OI Gateway and MQTT Support 🔗</li><li>Windows (Server 2016 and Windows 10) Container Support <i class="fa fa-archive"></i></li></ul><p>I think 2018 will be another exciting year.  More and more interesting technologies continue to emerge, even more existine ones continue to mature and see increased popularity.  One of the things I love about this group is that we can collectively discover and shed light on more of these fascinating developments that we might not have time for on our own.  Join our <a href="/slack">Slack</a> group (or hop on there if you haven’t been there in a while) and help us lay out some topics to dive in on in 2018!  We need volunteers for presentations!  You needn’t be the undisputed expert on a given topic–what we’re looking for is some time spent putting together an introduction and demonstration so that we can all discover something new and learn a bit about how to get started.</p><p>I also don’t want to close out 2017 without thanking our sponsor, JetBrains.  Their generous support has enabled us to share some great tools with our community and add some extra incentive for folks to gather and talk technology!  Thank you so much JetBrains for all you do and your wonderful support of KC Tech Group.  Let’s give them a hand (👏)and check out some of their great products via the link below!</p><center><a href="https://www.jetbrains.com" target="_blank" rel="noopener"><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></a></center><p>We’ll plan to see everyone in <strong>February</strong>–let’s have a great 2018 full of discovery, learning, and community.</p><p>Happy Coding.  💻 😎 🖖</p><p>–Kevin Collins</p>]]></content>
+    <content type="html"><![CDATA[<p>As the year closes out, I think we all enjoy reflecting a bit on our achievements and accomplishments the past year brought us.  2017 saw, among a great many other things, the introduction of KC Technology Group.  Our trademark-worthy “Meeting of the Minds” sessions have been a forum for gathering and discussing various technology topics, industry trends, and whatever else may be on, well, our minds.  😜  I’ve very much enjoyed getting a chance to be introduced to some of the various projects out there in the wild.  It has also been great to hear about topics that everyone is passionate about.</p><p>We’re taking a brief respite in January, with our next Meeting of the Minds session targeted for <strong>Thursday, February 8th, 2018</strong>, so lets look back at 2017 and see what we covered…</p><a id="more"></a><h2 id="2017-Meeting-of-the-Minds"><a href="#2017-Meeting-of-the-Minds" class="headerlink" title="2017 Meeting of the Minds"></a>2017 Meeting of the Minds</h2><ul><li><strong>MotM-1</strong> - First Session!  GPIO access methodologies on Raspberry Pi!</li><li><strong><a href="/MotM/motm-2/" title="MotM-2">MotM-2</a></strong> - Source Control <i class="fa fa-code-fork"></i></li><li><strong><a href="/MotM/motm-3/" title="MotM-3">MotM-3</a></strong> - Static Site Generators</li><li><strong><a href="/MotM/motm-4/" title="MotM-4">MotM-4</a></strong> - Communication Protocols</li><li><strong><a href="/MotM/motm-5/" title="MotM-5">MotM-5</a></strong> - <a href="https://nodered.org" target="_blank" rel="noopener">Node-RED</a></li><li><strong><a href="/MotM/motm-6/" title="MotM-6">MotM-6</a></strong> - <a href="https://home-assistant.io" target="_blank" rel="noopener">Home Assistant</a></li><li><strong><a href="/MotM/motm-7/" title="MotM-7">MotM-7</a></strong> - Text Editors, Regular Expressions, and Ignition Community Conference 2017</li><li><strong><a href="/MotM/motm-8/" title="MotM-8">MotM-8</a></strong> - Hilscher <a href="https://www.netiot.com/netpi/industrial-raspberry-pi-3/" target="_blank" rel="noopener">NetPI</a> and <a href="https://www.docker.com" target="_blank" rel="noopener">Docker</a></li></ul><p>We also began, at <a href="/MotM/motm-7/" title="MotM-7">MotM-7</a>, a new intro series called “Pass the Mic”.  Kicking off the meeting, everyone gets a chance to briefly mention something that has caught there attention recently.  We’ve got some interesting hits so far and are looking forward to continuing this in 2018 with some better capture and follow-up on the website!  Let’s take a look at what we’ve covered so far:</p><h2 id="2017-Pass-the-Mic"><a href="#2017-Pass-the-Mic" class="headerlink" title="2017 Pass the Mic"></a>2017 Pass the Mic</h2><ul><li>Informational Dashboard Design 📱 - (link to Stephen Few’s website <a href="http://www.perceptualedge.com/library.php#Books" target="_blank" rel="noopener">here</a>)</li><li>Blockchain Technology and Cryptocurrency 💰</li><li>Sensor Clouds and Wide-Area Radio Networks ☁️</li><li>Wonderware OI Gateway and MQTT Support 🔗</li><li>Windows (Server 2016 and Windows 10) Container Support <i class="fa fa-archive"></i></li></ul><p>I think 2018 will be another exciting year.  More and more interesting technologies continue to emerge, even more existine ones continue to mature and see increased popularity.  One of the things I love about this group is that we can collectively discover and shed light on more of these fascinating developments that we might not have time for on our own.  Join our <a href="/slack">Slack</a> group (or hop on there if you haven’t been there in a while) and help us lay out some topics to dive in on in 2018!  We need volunteers for presentations!  You needn’t be the undisputed expert on a given topic–what we’re looking for is some time spent putting together an introduction and demonstration so that we can all discover something new and learn a bit about how to get started.</p><p>I also don’t want to close out 2017 without thanking our sponsor, JetBrains.  Their generous support has enabled us to share some great tools with our community and add some extra incentive for folks to gather and talk technology!  Thank you so much JetBrains for all you do and your wonderful support of KC Tech Group.  Let’s give them a hand (👏)and check out some of their great products via the link below!</p><center><a href="https://www.jetbrains.com" target="_blank" rel="noopener"><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></a></center><p>We’ll plan to see everyone in <strong>February</strong>–let’s have a great 2018 full of discovery, learning, and community.</p><p>Happy Coding.  💻 😎 🖖</p><p>–Kevin Collins</p>]]></content>
     
     <summary type="html">
     
@@ -201,12 +215,12 @@
   
   <entry>
     <title>Meeting of the Minds #8</title>
-    <link href="http://kctechgroup.org/2017/11/27/motm-8/"/>
-    <id>http://kctechgroup.org/2017/11/27/motm-8/</id>
+    <link href="http://kctechgroup.org/MotM/8/"/>
+    <id>http://kctechgroup.org/MotM/8/</id>
     <published>2017-11-28T03:30:23.000Z</published>
-    <updated>2018-02-04T20:29:59.944Z</updated>
+    <updated>2018-08-10T17:43:11.027Z</updated>
     
-    <content type="html"><![CDATA[<p>🦃 Turkey Day is over and I’m certainly a bit sluggish after eating way too much over the holiday!  Thanksgiving is a great time to reflect about some of the things that we’re thankful for though, and while family and friends definitely rank highest on my list, I find myself thankful for some of the great technologies we get to interact with and leverage from day to day.</p><img src="/2017/11/27/motm-8/IMG_5499.jpg"><p>For MotM-8, we’ll continue discovering (together!) some of the latest and greatest trends in computing and automation.  We’ve got a sneak peak at Hilscher’s <a href="https://www.netiot.com/netpi/netpi/" target="_blank" rel="noopener">NetPi</a> platform as well as an introduction to some of the technologies it is using.  We’ve covered <a href="https://www.nodered.org" target="_blank" rel="noopener">Node-RED</a> in the past (<a href="/2017/08/17/motm-5/" title="MotM-5">MotM-5</a>), and this time around I’ll be giving an introduction to Docker and container technology.  Sure, you can go through the <a href="https://docs.docker.com/get-started/" target="_blank" rel="noopener">Getting Started</a> guide on Docker’s website, but why not enjoy some tasty coffee and dinner at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS (directions are on their website) while I help distill it down!  We’re getting started with the official stuff at <strong>6:30pm</strong> on <strong>Thursday, December 7th, 2017</strong>, but feel free to come early for food and conversation!</p><center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center><p>I’d like to thank <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong> for their continued support of KC Tech Group!  I hope to have some of our members reflect in one of the next meetings on some of the projects they’re working on with the JetBrains tools.  We’re going to be raffling off a license to one of JetBrains’ <strong>incredible</strong> IDEs/development tools at MotM-8!  Check out their site for some of their other community offerings, they’ve got some great ways to get started with some great new technologies.</p><p>Don’t forget to join us on our <a href="/slack">Slack</a> group!  See you in December, happy coding! 👻</p><p>–Kevin Collins</p>]]></content>
+    <content type="html"><![CDATA[<p>🦃 Turkey Day is over and I’m certainly a bit sluggish after eating way too much over the holiday!  Thanksgiving is a great time to reflect about some of the things that we’re thankful for though, and while family and friends definitely rank highest on my list, I find myself thankful for some of the great technologies we get to interact with and leverage from day to day.</p><img src="/MotM/8/IMG_5499.jpg"><p>For MotM-8, we’ll continue discovering (together!) some of the latest and greatest trends in computing and automation.  We’ve got a sneak peak at Hilscher’s <a href="https://www.netiot.com/netpi/netpi/" target="_blank" rel="noopener">NetPi</a> platform as well as an introduction to some of the technologies it is using.  We’ve covered <a href="https://www.nodered.org" target="_blank" rel="noopener">Node-RED</a> in the past (), and this time around I’ll be giving an introduction to Docker and container technology.  Sure, you can go through the <a href="https://docs.docker.com/get-started/" target="_blank" rel="noopener">Getting Started</a> guide on Docker’s website, but why not enjoy some tasty coffee and dinner at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS (directions are on their website) while I help distill it down!  We’re getting started with the official stuff at <strong>6:30pm</strong> on <strong>Thursday, December 7th, 2017</strong>, but feel free to come early for food and conversation!</p><center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center><p>I’d like to thank <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong> for their continued support of KC Tech Group!  I hope to have some of our members reflect in one of the next meetings on some of the projects they’re working on with the JetBrains tools.  We’re going to be raffling off a license to one of JetBrains’ <strong>incredible</strong> IDEs/development tools at MotM-8!  Check out their site for some of their other community offerings, they’ve got some great ways to get started with some great new technologies.</p><p>Don’t forget to join us on our <a href="/slack">Slack</a> group!  See you in December, happy coding! 👻</p><p>–Kevin Collins</p>]]></content>
     
     <summary type="html">
     
@@ -217,6 +231,8 @@
     
     </summary>
     
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
+    
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
     
@@ -224,10 +240,10 @@
   
   <entry>
     <title>Meeting of the Minds #7</title>
-    <link href="http://kctechgroup.org/2017/10/15/motm-7/"/>
-    <id>http://kctechgroup.org/2017/10/15/motm-7/</id>
+    <link href="http://kctechgroup.org/MotM/7/"/>
+    <id>http://kctechgroup.org/MotM/7/</id>
     <published>2017-10-15T18:12:41.000Z</published>
-    <updated>2018-01-01T02:57:41.162Z</updated>
+    <updated>2018-08-10T17:43:16.198Z</updated>
     
     <content type="html"><![CDATA[<p>🎃 As we get ready for Halloween, we sometimes reflect on things that are scary or frightening.  Change is one of those things that can sometimes be scary, but many times, we find ourselves in a much better place after conquering that initial resistence and learning something new.</p><p>There has been a lot of movement in the world of text editors in recent times, and MotM-7 is ready to share some of the changes with you.  We’ll also be touching on regular expressions, which have been around for a long time, but are worth looking at while you’re playing with your new text editor.  😎</p><p>Mike Wickersheim and I will be teaming up on a double header to deliver a presentation on modern <strong>Text Editor</strong> options and the power of <strong>Regular Expressions</strong> along with a summary of the <strong>Ignition Community Conference 2017</strong> last month!  Join us and talk tech at <strong>6:30pm</strong> on <strong>Thursday, November 2nd, 2017</strong> at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS (directions are on their website).  They’ve been offering some pretty amazing soups recently, so come early to endulge (and leverage a tasty cup of coffee to stay awake during our sure-to-be-exhilerating presentation 😉).</p><center><br><img src="/images/jetbrains.svg" title="JetBrains Logo"><br></center><p>I’d like to thank <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong> for their continued support of KC Tech Group!  I hope to have some of our members reflect in one of the next meetings on some of the projects they’re working on with the JetBrains tools.  We’re going to be raffling off a license to one of JetBrains’ <strong>incredible</strong> IDEs/development tools at MotM-7!  Check out their site for some of their other community offerings, they’ve got some great ways to get started with some great new technologies.</p><p>Don’t forget to join us on our <a href="/slack">Slack</a> group!  See you in November, happy coding! 👻</p><p>–Kevin Collins</p>]]></content>
     
@@ -240,6 +256,8 @@
     
     </summary>
     
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
+    
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
     
@@ -247,21 +265,23 @@
   
   <entry>
     <title>Meeting of the Minds #6</title>
-    <link href="http://kctechgroup.org/2017/09/22/motm-6/"/>
-    <id>http://kctechgroup.org/2017/09/22/motm-6/</id>
+    <link href="http://kctechgroup.org/MotM/6/"/>
+    <id>http://kctechgroup.org/MotM/6/</id>
     <published>2017-09-22T16:00:37.000Z</published>
-    <updated>2017-12-03T21:58:51.202Z</updated>
+    <updated>2018-08-10T17:43:20.532Z</updated>
     
-    <content type="html"><![CDATA[<p>Fall is here! 🍃🍁🍂  We touched on some great points in <a href="/2017/08/17/motm-5/" title="MotM-5">MotM-5</a>, but we’re pushing that even further with a deeper look at Home Automation, specifically <a href="http://home-assistant.io" target="_blank" rel="noopener">Home Assistant</a> with a presentation by Alec Weaver (@aweaver on our <a href="/slack">Slack</a> group).  This product is a free and open way to integrate some of the smart devices out there in the marketplace, and Alec has some great demos lined up to help get you started!</p><p>It is an exciting time in this area, as we see a lot of different products and strategies emerge.  I think this is an area that will see a lot more attention in the next couple of years.  I’m not sure how any one of us can keep up on all of it ourselves–this is when we need to engage our community.  Join ours and talk tech with us at <strong>6:30pm</strong> on <strong>October 5th, 2017</strong> at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS (directions are on their website).  Come early and get some dinner and <em>wonderful</em> coffee!</p><center><br><img src="/2017/09/22/motm-6/jetbrains.svg" title="JetBrains Logo"><br></center><p>I’d like to thank <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong> for their continued support of KC Tech Group! </p><p>Join us for a chance to join our raffle for a free license to one of JetBrains’ <strong>incredible</strong> IDEs or development tools!  Also, check out their site for some of their other community offerings, they’ve got some great ways to get started with some great new technologies.</p><p>We look forward to seeing you! Until then, happy coding! 😎</p><p>–Kevin Collins</p>]]></content>
+    <content type="html"><![CDATA[<p>Fall is here! 🍃🍁🍂  We touched on some great points in , but we’re pushing that even further with a deeper look at Home Automation, specifically <a href="http://home-assistant.io" target="_blank" rel="noopener">Home Assistant</a> with a presentation by Alec Weaver (@aweaver on our <a href="/slack">Slack</a> group).  This product is a free and open way to integrate some of the smart devices out there in the marketplace, and Alec has some great demos lined up to help get you started!</p><p>It is an exciting time in this area, as we see a lot of different products and strategies emerge.  I think this is an area that will see a lot more attention in the next couple of years.  I’m not sure how any one of us can keep up on all of it ourselves–this is when we need to engage our community.  Join ours and talk tech with us at <strong>6:30pm</strong> on <strong>October 5th, 2017</strong> at <a href="http://thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS (directions are on their website).  Come early and get some dinner and <em>wonderful</em> coffee!</p><center><br><img src="/MotM/6/jetbrains.svg" title="JetBrains Logo"><br></center><p>I’d like to thank <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong> for their continued support of KC Tech Group! </p><p>Join us for a chance to join our raffle for a free license to one of JetBrains’ <strong>incredible</strong> IDEs or development tools!  Also, check out their site for some of their other community offerings, they’ve got some great ways to get started with some great new technologies.</p><p>We look forward to seeing you! Until then, happy coding! 😎</p><p>–Kevin Collins</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Fall is here! 🍃🍁🍂  We touched on some great points in &lt;a href=&quot;/2017/08/17/motm-5/&quot; title=&quot;MotM-5&quot;&gt;MotM-5&lt;/a&gt;, but we’re pushing that 
+        &lt;p&gt;Fall is here! 🍃🍁🍂  We touched on some great points in , but we’re pushing that even further with a deeper look at Home Automation, spe
       
     
     </summary>
+    
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
     
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
@@ -270,12 +290,12 @@
   
   <entry>
     <title>Meeting of the Minds #5</title>
-    <link href="http://kctechgroup.org/2017/08/17/motm-5/"/>
-    <id>http://kctechgroup.org/2017/08/17/motm-5/</id>
+    <link href="http://kctechgroup.org/MotM/5/"/>
+    <id>http://kctechgroup.org/MotM/5/</id>
     <published>2017-08-17T17:38:00.000Z</published>
-    <updated>2017-10-15T18:30:15.527Z</updated>
+    <updated>2018-08-10T17:43:24.774Z</updated>
     
-    <content type="html"><![CDATA[<p>Summer is nearing a close, but there is still a lot to look forward to as Fall starts to move in.  One such great thing is <a href="http://nodered.org" target="_blank" rel="noopener"><strong>Node-RED</strong></a>, which happens to be the topic of Meeting of the Minds #5!  We’ll be covering <a href="http://nodered.org" target="_blank" rel="noopener">Node-RED</a> which has superb applications for almost everyone.  Automating some of your home automation gadgets, simulating device behaviors, connecting disparate systems, and much more all fall under the capabilities of a <a href="http://nodered.org" target="_blank" rel="noopener"><strong>Node-RED</strong></a> system.</p><p>Eric Crook (@ecrook on our <a href="/slack">Slack</a> group) has volunteered to give us a presentation on <a href="http://nodered.org" target="_blank" rel="noopener"><strong>Node-RED</strong></a> and shine some light on its capabilities and reveal some of its more common use-cases.  With it being able to run on commodity hardware as well as powerful server-grade machines, everyone can explore <a href="http://nodered.org" target="_blank" rel="noopener"><strong>Node-RED</strong></a> and find their own uses for it.  Feel free to bring your Raspberry Pi and we’ll help get <a href="http://nodered.org" target="_blank" rel="noopener"><strong>Node-RED</strong></a> up and running for you after the presentation!</p><center><br><img src="/2017/08/17/motm-5/jetbrains.svg" title="JetBrains Logo"><br></center><p>I’d like to thank <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong> for their continued support of KC Tech Group! </p><p>Join us for a chance to join our raffle for a free license to one of JetBrains’ <strong>incredible</strong> IDEs or development tools!  Also, check out their site for some of their other community offerings, they’ve got some great ways to get started with some great new technologies.</p><p>We’ll see you at 6:30pm on <strong>September 7th</strong> at <a href="http://www.thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS:</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><p>Until then…  Happy coding! 😎</p><p>–Kevin Collins</p>]]></content>
+    <content type="html"><![CDATA[<p>Summer is nearing a close, but there is still a lot to look forward to as Fall starts to move in.  One such great thing is <a href="http://nodered.org" target="_blank" rel="noopener"><strong>Node-RED</strong></a>, which happens to be the topic of Meeting of the Minds #5!  We’ll be covering <a href="http://nodered.org" target="_blank" rel="noopener">Node-RED</a> which has superb applications for almost everyone.  Automating some of your home automation gadgets, simulating device behaviors, connecting disparate systems, and much more all fall under the capabilities of a <a href="http://nodered.org" target="_blank" rel="noopener"><strong>Node-RED</strong></a> system.</p><p>Eric Crook (@ecrook on our <a href="/slack">Slack</a> group) has volunteered to give us a presentation on <a href="http://nodered.org" target="_blank" rel="noopener"><strong>Node-RED</strong></a> and shine some light on its capabilities and reveal some of its more common use-cases.  With it being able to run on commodity hardware as well as powerful server-grade machines, everyone can explore <a href="http://nodered.org" target="_blank" rel="noopener"><strong>Node-RED</strong></a> and find their own uses for it.  Feel free to bring your Raspberry Pi and we’ll help get <a href="http://nodered.org" target="_blank" rel="noopener"><strong>Node-RED</strong></a> up and running for you after the presentation!</p><center><br><img src="/MotM/5/jetbrains.svg" title="JetBrains Logo"><br></center><p>I’d like to thank <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong> for their continued support of KC Tech Group! </p><p>Join us for a chance to join our raffle for a free license to one of JetBrains’ <strong>incredible</strong> IDEs or development tools!  Also, check out their site for some of their other community offerings, they’ve got some great ways to get started with some great new technologies.</p><p>We’ll see you at 6:30pm on <strong>September 7th</strong> at <a href="http://www.thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS:</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><p>Until then…  Happy coding! 😎</p><p>–Kevin Collins</p>]]></content>
     
     <summary type="html">
     
@@ -286,6 +306,8 @@
     
     </summary>
     
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
+    
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
     
@@ -293,12 +315,12 @@
   
   <entry>
     <title>Meeting of the Minds #4</title>
-    <link href="http://kctechgroup.org/2017/07/21/motm-4/"/>
-    <id>http://kctechgroup.org/2017/07/21/motm-4/</id>
+    <link href="http://kctechgroup.org/MotM/4/"/>
+    <id>http://kctechgroup.org/MotM/4/</id>
     <published>2017-07-22T01:53:00.000Z</published>
-    <updated>2017-09-22T16:25:33.000Z</updated>
+    <updated>2018-08-10T17:43:29.032Z</updated>
     
-    <content type="html"><![CDATA[<p>It’s HOT 🔥 here in Kansas!  Thankfully that won’t dissuade hungry minds from gobbling up great information about <strong>Communications Protocols</strong> in Meeting of the Minds #4!  This session will introduce you to some protocols that you might not have explored yet as well as peeling back the onion on some ones you might not have realized had such potential!  </p><p>Returning to <a href="http://www.thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs on <strong>August 3rd, 2017</strong>, we’ll start the meeting in the conference room at <strong>6:30pm</strong>.  Many folks enjoyed some tasty food before/during <a href="/2017/06/16/motm-3/" title="MotM-3">MotM-3</a>, so feel free to come out and enjoy a bite and/or some delicious coffee ahead of time (they’ll give ya decaf too if you’d like given the evening schedule ☕️)!</p><center><br><img src="/2017/07/21/motm-4/jetbrains.svg" title="JetBrains Logo"><br></center><p>Mike and I are also happy to thank <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong> for their support of KC Tech Group!  <a href="/2017/06/16/motm-3/" title="MotM-3">MotM-3</a> was our first raffle for a license to one of JetBrains’ <strong>amazing</strong> development tools.  Jim Evers hasn’t let us know which product he’s picked, but I’m sure there will be one that will enable some pretty neat new code to be constructed!  It is super great to have such generous support from JetBrains</p><p>Happy coding! 😎</p><p>–Kevin Collins</p><blockquote><p>Third Space Coffee:<br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p>It’s HOT 🔥 here in Kansas!  Thankfully that won’t dissuade hungry minds from gobbling up great information about <strong>Communications Protocols</strong> in Meeting of the Minds #4!  This session will introduce you to some protocols that you might not have explored yet as well as peeling back the onion on some ones you might not have realized had such potential!  </p><p>Returning to <a href="http://www.thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs on <strong>August 3rd, 2017</strong>, we’ll start the meeting in the conference room at <strong>6:30pm</strong>.  Many folks enjoyed some tasty food before/during , so feel free to come out and enjoy a bite and/or some delicious coffee ahead of time (they’ll give ya decaf too if you’d like given the evening schedule ☕️)!</p><center><br><img src="/MotM/4/jetbrains.svg" title="JetBrains Logo"><br></center><p>Mike and I are also happy to thank <strong><a href="https://www.jetbrains.com" target="_blank" rel="noopener">JetBrains s.r.o.</a></strong> for their support of KC Tech Group!   was our first raffle for a license to one of JetBrains’ <strong>amazing</strong> development tools.  Jim Evers hasn’t let us know which product he’s picked, but I’m sure there will be one that will enable some pretty neat new code to be constructed!  It is super great to have such generous support from JetBrains</p><p>Happy coding! 😎</p><p>–Kevin Collins</p><blockquote><p>Third Space Coffee:<br><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p></blockquote>]]></content>
     
     <summary type="html">
     
@@ -309,6 +331,8 @@
     
     </summary>
     
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
+    
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
     
@@ -316,10 +340,10 @@
   
   <entry>
     <title>Meeting of the Minds #3</title>
-    <link href="http://kctechgroup.org/2017/06/16/motm-3/"/>
-    <id>http://kctechgroup.org/2017/06/16/motm-3/</id>
+    <link href="http://kctechgroup.org/MotM/3/"/>
+    <id>http://kctechgroup.org/MotM/3/</id>
     <published>2017-06-16T16:55:00.000Z</published>
-    <updated>2017-08-17T17:52:19.000Z</updated>
+    <updated>2018-08-10T17:43:32.706Z</updated>
     
     <content type="html"><![CDATA[<p>We’re back for another Meeting of the Minds!  MotM-3 will gather on <strong>July 6th, 2017</strong> at <strong>6:30pm</strong> (feel free to come early to get coffee and food, folks will start arriving around 6pm) at <a href="http://www.thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS.</p><p>Our last MotM session at Third Space was quite delightful.  There will be food available (they have a wonderful menu!) and possibly some pie too 🍰.  </p><p>We’ve still got some work to do on the topic voting–we’re certainly up for volunteers until we land on something concrete!  For this session, we’re going to fall back on one of my more favorite recent topics.  You guessed it: <strong>Static Site Generators</strong>.  I really think this will be an exciting session–I’ll be demoing a few different systems and I’m expecting a lot of folks to have light bulbs going off!  You’ll be able to do some pretty neat things after this one!</p><p>As we get closer, I’ll post a link to some resources for the presentation.  If you haven’t done it yet, don’t forget to join us in <a href="/slack">Slack</a>!</p><p>Happy coding! 😎</p><p>–Kevin Collins</p><p>Third Space Coffee:<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p>]]></content>
     
@@ -332,6 +356,8 @@
     
     </summary>
     
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
+    
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
     
@@ -339,10 +365,10 @@
   
   <entry>
     <title>Meeting of the Minds #2</title>
-    <link href="http://kctechgroup.org/2017/05/17/motm-2/"/>
-    <id>http://kctechgroup.org/2017/05/17/motm-2/</id>
+    <link href="http://kctechgroup.org/MotM/2/"/>
+    <id>http://kctechgroup.org/MotM/2/</id>
     <published>2017-05-17T23:45:00.000Z</published>
-    <updated>2017-08-17T17:53:47.000Z</updated>
+    <updated>2018-08-10T17:43:37.059Z</updated>
     
     <content type="html"><![CDATA[<p>It is time for another Meeting of the Minds!  MotM-2 will be held on <strong>June 5th, 2017</strong> at <strong>6:30pm</strong> at <a href="http://www.thirdspacecoffeehouse.com" target="_blank" rel="noopener">Third Space Coffee House</a> in Bonner Springs, KS:</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3098.1937755187746!2d-94.88623368430397!3d39.056497979546336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c08ffcb912dbd1%3A0x805559ebce736d95!2s226+Oak+St%2C+Bonner+Springs%2C+KS+66012!5e0!3m2!1sen!2sus!4v1495064330926" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe><p>This will be our first gathering here, but I can assert that they have great food, exceptional coffee, and a wonderful atmosphere!  The presentation topic, chosen at the last MotM session, will be <strong>Source Control</strong>.  We’ll be covering the basics as well as demoing both Git and Subversion across a few platforms.  We might even offer up a surprise (at least to me!) entry in the Source Control world that I hadn’t run into before!  In addition to some introductory content, I hope to share a few tips and tricks that will benefit both beginner and advanced users!  </p><p>I’ve got the presentation assembled (at least the Keynote content, you’ll have to come in person to see the demos), feel free to join the presentation live here (although until we work out some additional live video streaming goodness, it might not be that exciting):</p><p><a href="https://www.icloud.com/keynote-live/sc:0Q1HS420lixvG81dldqU97DKkdh1Se2wL_q29M7XiO5VY1ZJQr5Y262Y9cqJOF9vkoR" target="_blank" rel="noopener">https://www.icloud.com/keynote-live/sc:0Q1HS420lixvG81dldqU97DKkdh1Se2wL_q29M7XiO5VY1ZJQr5Y262Y9cqJOF9vkoR</a></p><p>Have a great week, and happy coding!</p><p>–Kevin Collins</p>]]></content>
     
@@ -355,6 +381,8 @@
     
     </summary>
     
+      <category term="MotM" scheme="http://kctechgroup.org/categories/MotM/"/>
+    
     
       <category term="MotM" scheme="http://kctechgroup.org/tags/MotM/"/>
     
@@ -362,8 +390,8 @@
   
   <entry>
     <title>Welcome to the KC Tech Group!</title>
-    <link href="http://kctechgroup.org/2017/05/05/welcome/"/>
-    <id>http://kctechgroup.org/2017/05/05/welcome/</id>
+    <link href="http://kctechgroup.org/uncategorized/welcome/"/>
+    <id>http://kctechgroup.org/uncategorized/welcome/</id>
     <published>2017-05-05T20:02:25.000Z</published>
     <updated>2017-05-06T02:19:41.000Z</updated>
     
