@@ -1,9 +1,12 @@
 ---
 title: 'Meeting of the Minds #4'
+permalink: 4
 subtitle: Scheduled for August 3rd, 2017
 date: 2017-07-21 20:53:00
+category:
+  - MotM
 tags: 
-- MotM
+  - MotM
 ---
 It's HOT 🔥 here in Kansas!  Thankfully that won't dissuade hungry minds from gobbling up great information about **Communications Protocols** in Meeting of the Minds #4!  This session will introduce you to some protocols that you might not have explored yet as well as peeling back the onion on some ones you might not have realized had such potential!  
 

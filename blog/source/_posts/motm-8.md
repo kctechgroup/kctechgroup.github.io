@@ -1,9 +1,12 @@
 ---
 title: 'Meeting of the Minds #8'
+permalink: 8
 subtitle: Scheduled for Thursday, Dec. 7th, 2017 @ 6:30pm
 date: 2017-11-27 21:30:23
+category:
+  - MotM
 tags: 
-- MotM
+  - MotM
 ---
 
 🦃 Turkey Day is over and I'm certainly a bit sluggish after eating way too much over the holiday!  Thanksgiving is a great time to reflect about some of the things that we're thankful for though, and while family and friends definitely rank highest on my list, I find myself thankful for some of the great technologies we get to interact with and leverage from day to day.

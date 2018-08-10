@@ -1,7 +1,10 @@
 ---
 title: 'Meeting of the Minds #9'
+permalink: 9
 subtitle: Scheduled for Thursday, Feb. 8th @ 6:30pm
 date: 2018-01-26 17:00:15
+category:
+  - MotM
 tags: 
 - MotM
 ---

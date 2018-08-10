@@ -1,5 +1,8 @@
 ---
 title: 'Meeting of the Minds #14'
+permalink: 14
+category:
+  - MotM
 tags:
   - MotM
 subtitle: 'Scheduled for Thursday, July 5th @ 6:30pm'

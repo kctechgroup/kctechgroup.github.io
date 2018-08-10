@@ -1,9 +1,15 @@
 ---
 title: Meeting of the Minds - Hackathon Ed.
+# For MotM category posts, use the number of the MotM for the permalink so we get a nice URL
+permalink: 15
+category:
+  - MotM
 tags:
   - MotM
   - Hackathon
 subtitle: 'Scheduled for Thursday, September 6th @ 5:30pm'
+location: Bonner Springs City Library
+location_link: 'http://bonnerlibrary.org'
 topic: Pending
 date: 2018-07-29 20:43:00
 ---

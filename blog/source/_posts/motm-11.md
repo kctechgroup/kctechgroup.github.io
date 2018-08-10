@@ -1,5 +1,8 @@
 ---
 title: 'Meeting of the Minds #11'
+permalink: 11
+category:
+  - MotM
 tags:
   - MotM
 subtitle: 'Scheduled for Thursday, April 5th @ 6:30pm'

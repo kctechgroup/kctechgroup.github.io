@@ -1,5 +1,8 @@
 ---
 title: 'Meeting of the Minds #10'
+permalink: 10
+category:
+  - MotM
 tags:
   - MotM
 subtitle: 'Scheduled for Thursday, March 1st @ 6:30pm'

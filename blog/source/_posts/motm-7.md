@@ -1,9 +1,12 @@
 ---
 title: 'Meeting of the Minds #7'
+permalink: 7
 subtitle: Scheduled for Thursday, Nov. 2nd, 2017 @ 6:30pm
 date: 2017-10-15 13:12:41
+category:
+  - MotM
 tags: 
-- MotM
+  - MotM
 ---
 
 🎃 As we get ready for Halloween, we sometimes reflect on things that are scary or frightening.  Change is one of those things that can sometimes be scary, but many times, we find ourselves in a much better place after conquering that initial resistence and learning something new.

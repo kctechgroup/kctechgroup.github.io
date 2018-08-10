@@ -1,9 +1,12 @@
 ---
 title: 'Meeting of the Minds #5'
+permalink: 5
 subtitle: Scheduled for September 7th, 2017 @ 6:30pm
 date: 2017-08-17 12:38:00
+category:
+  - MotM
 tags: 
-- MotM
+  - MotM
 ---
 Summer is nearing a close, but there is still a lot to look forward to as Fall starts to move in.  One such great thing is [**Node-RED**](http://nodered.org), which happens to be the topic of Meeting of the Minds #5!  We'll be covering [Node-RED](http://nodered.org) which has superb applications for almost everyone.  Automating some of your home automation gadgets, simulating device behaviors, connecting disparate systems, and much more all fall under the capabilities of a [**Node-RED**](http://nodered.org) system.
 

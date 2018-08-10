@@ -1,9 +1,12 @@
 ---
 title: 'Meeting of the Minds #2'
+permalink: 2
 subtitle: Scheduled for June 5th, 2017
 date: 2017-05-17 18:45:00
+category:
+  - MotM
 tags: 
-- MotM
+  - MotM
 ---
 It is time for another Meeting of the Minds!  MotM-2 will be held on **June 5th, 2017** at **6:30pm** at [Third Space Coffee House](http://www.thirdspacecoffeehouse.com) in Bonner Springs, KS:
 

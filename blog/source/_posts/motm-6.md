@@ -1,9 +1,12 @@
 ---
 title: 'Meeting of the Minds #6'
+permalink: 6
 subtitle: Scheduled for October 5th, 2017 @ 6:30pm
 date: 2017-09-22 11:00:37
+category:
+  - MotM
 tags: 
-- MotM
+  - MotM
 ---
 Fall is here! 🍃🍁🍂  We touched on some great points in {% post_link motm-5 MotM-5 %}, but we're pushing that even further with a deeper look at Home Automation, specifically [Home Assistant](http://home-assistant.io) with a presentation by Alec Weaver (@aweaver on our [Slack](/slack) group).  This product is a free and open way to integrate some of the smart devices out there in the marketplace, and Alec has some great demos lined up to help get you started!
 
