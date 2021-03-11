@@ -1,6 +1,6 @@
 ---
 title: 'Meeting of the Minds #11'
-permalink: 11
+permalink: motm/11/
 category:
   - MotM
 tags:

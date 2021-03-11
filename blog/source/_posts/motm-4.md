@@ -1,6 +1,6 @@
 ---
 title: 'Meeting of the Minds #4'
-permalink: 4
+permalink: motm/4/
 subtitle: Scheduled for August 3rd, 2017
 date: 2017-07-21 20:53:00
 category:

@@ -1,6 +1,6 @@
 ---
 title: 'Meeting of the Minds #3'
-permalink: 3
+permalink: motm/3/
 subtitle: Scheduled for July 6th, 2017
 date: 2017-06-16 11:55:00
 category:

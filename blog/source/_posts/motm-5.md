@@ -1,6 +1,6 @@
 ---
 title: 'Meeting of the Minds #5'
-permalink: 5
+permalink: motm/5/
 subtitle: Scheduled for September 7th, 2017 @ 6:30pm
 date: 2017-08-17 12:38:00
 category:

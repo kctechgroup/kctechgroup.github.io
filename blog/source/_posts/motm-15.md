@@ -1,7 +1,7 @@
 ---
 title: Meeting of the Minds - Hackathon Ed.
 # For MotM category posts, use the number of the MotM for the permalink so we get a nice URL
-permalink: 15
+permalink: motm/15/
 category:
   - MotM
 tags:

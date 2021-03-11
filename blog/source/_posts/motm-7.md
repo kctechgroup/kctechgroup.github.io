@@ -1,6 +1,6 @@
 ---
 title: 'Meeting of the Minds #7'
-permalink: 7
+permalink: motm/7/
 subtitle: Scheduled for Thursday, Nov. 2nd, 2017 @ 6:30pm
 date: 2017-10-15 13:12:41
 category:
