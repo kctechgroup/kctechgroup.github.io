@@ -1,6 +1,6 @@
 ---
 title: 'Meeting of the Minds #6'
-permalink: motm/6/
+permalink: MotM/6/
 subtitle: Scheduled for October 5th, 2017 @ 6:30pm
 date: 2017-09-22 11:00:37
 category:

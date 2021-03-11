@@ -1,6 +1,6 @@
 ---
 title: 'Meeting of the Minds #8'
-permalink: motm/8/
+permalink: MotM/8/
 subtitle: Scheduled for Thursday, Dec. 7th, 2017 @ 6:30pm
 date: 2017-11-27 21:30:23
 category:

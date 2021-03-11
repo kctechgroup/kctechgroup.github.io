@@ -1,6 +1,6 @@
 ---
 title: 'Meeting of the Minds #2'
-permalink: motm/2/
+permalink: MotM/2/
 subtitle: Scheduled for June 5th, 2017
 date: 2017-05-17 18:45:00
 category:
