@@ -2,6 +2,104 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kctechgroup.org/motm/4/</loc>
+    
+    <lastmod>2021-03-11T03:52:28.296Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/motm/5/</loc>
+    
+    <lastmod>2021-03-11T03:52:28.294Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/motm/6/</loc>
+    
+    <lastmod>2021-03-11T03:52:28.286Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/motm/11/</loc>
+    
+    <lastmod>2021-03-11T03:52:28.279Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/motm/15/</loc>
+    
+    <lastmod>2021-03-11T03:52:28.269Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/motm/8/</loc>
+    
+    <lastmod>2021-03-11T03:52:28.239Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/motm/2/</loc>
+    
+    <lastmod>2021-03-11T03:52:28.238Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/motm/9/</loc>
+    
+    <lastmod>2021-03-11T03:52:28.238Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/motm/3/</loc>
+    
+    <lastmod>2021-03-11T03:52:28.235Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/motm/12/</loc>
+    
+    <lastmod>2021-03-11T03:52:28.235Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/motm/10/</loc>
+    
+    <lastmod>2021-03-11T03:52:28.227Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/motm/7/</loc>
+    
+    <lastmod>2021-03-11T03:52:28.226Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/motm/13/</loc>
+    
+    <lastmod>2021-03-11T03:52:28.224Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/motm/14/</loc>
+    
+    <lastmod>2021-03-11T03:51:24.236Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kctechgroup.org/uncategorized/covid-update/</loc>
     
     <lastmod>2021-03-11T03:02:56.331Z</lastmod>
@@ -26,104 +124,6 @@
     <loc>http://kctechgroup.org/slack/index.html</loc>
     
     <lastmod>2021-03-11T02:40:42.433Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/9/</loc>
-    
-    <lastmod>2018-08-10T17:45:57.713Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/2/</loc>
-    
-    <lastmod>2018-08-10T17:43:37.059Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/3/</loc>
-    
-    <lastmod>2018-08-10T17:43:32.706Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/4/</loc>
-    
-    <lastmod>2018-08-10T17:43:29.032Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/5/</loc>
-    
-    <lastmod>2018-08-10T17:43:24.774Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/6/</loc>
-    
-    <lastmod>2018-08-10T17:43:20.532Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/7/</loc>
-    
-    <lastmod>2018-08-10T17:43:16.198Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/8/</loc>
-    
-    <lastmod>2018-08-10T17:43:11.027Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/15/</loc>
-    
-    <lastmod>2018-08-10T17:42:52.375Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/14/</loc>
-    
-    <lastmod>2018-08-10T17:42:28.592Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/13/</loc>
-    
-    <lastmod>2018-08-10T17:42:25.693Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/12/</loc>
-    
-    <lastmod>2018-08-10T17:42:20.650Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/11/</loc>
-    
-    <lastmod>2018-08-10T17:42:17.528Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/MotM/10/</loc>
-    
-    <lastmod>2018-08-10T17:42:13.608Z</lastmod>
     
   </url>
   
