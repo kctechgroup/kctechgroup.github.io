@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.7.1"
+    "version": "5.4.0"
   },
   "dependencies": {
-    "hexo": "^3.7.1",
+    "hexo": "^5.4.0",
     "hexo-browsersync": "^0.3.0",
     "hexo-deployer-git": "^0.3.1",
     "hexo-generator-archive": "^0.1.5",
@@ -19,7 +19,7 @@
     "hexo-renderer-jade": "^0.4.1",
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
-    "hexo-server": "^0.3.2",
-    "hexo-tag-fontawesome": "^1.0.0"
+    "hexo-server": "^0.3.3",
+    "hexo-tag-fontawesome": "^1.1.0"
   }
 }

@@ -8,15 +8,8 @@ comment_disable: true
 
 Our _Meeting of the Minds_ sessions are _typically_ held the first Thursday of every month.  See the event calendar below for information on the location of each session.
 
-| Session                       | Date / Time             | Topic                                 |
-| ----------------------------- | ----------------------- | ---------------------------------------- |
-| {% post_link motm-15 MotM-15 %} | Thursday, Sep 9th, 2018 @ 5:30pm | Hackathon!
-| {% post_link motm-14 MotM-14 %} | Thursday, Jul 5th, 2018 @ 6:30pm | [ZeroMQ](http://zeromq.org)
-| {% post_link motm-13 MotM-13 %} | Thursday, Jun 7th, 2018 @ 6:30pm | [Heroku](https://www.heroku.com)
-| {% post_link motm-12 MotM-12 %} | Thursday, May 3rd, 2018 @ 6:30pm | [Qt](https://www.qt.io) Frameworks
-| {% post_link motm-11 MotM-11 %} | Thursday, Apr 5th, 2018 @ 6:30pm | [The Things Network](https://www.thethingsnetwork.org)
-| {% post_link motm-10 MotM-10 %} | Thursday, Mar 1st, 2018 @ 6:30pm | [GM Infotainment System Apps](https://developer.gm.com)
-| {% post_link motm-9 MotM-9 %} | Thursday, Feb 8th, 2018 @ 6:30pm | [Project Jupyter](http://jupyter.org)
+<div style="color:red;">_Our Meetups are currently on hold due to COVID-19!_</div>
+<br/>
 
 ## Event Calendar
 We maintain events in our calendar below.  Use the link below it to subscribe and get our sessions on _your_ calendar!
