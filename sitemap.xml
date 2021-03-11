@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kctechgroup.org/uncategorized/covid-update/</loc>
+    
+    <lastmod>2021-03-11T03:02:56.331Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/about/index.html</loc>
+    
+    <lastmod>2021-03-11T03:00:51.207Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/meetups/index.html</loc>
+    
+    <lastmod>2021-03-11T02:53:00.558Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kctechgroup.org/slack/index.html</loc>
+    
+    <lastmod>2021-03-11T02:40:42.433Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kctechgroup.org/MotM/9/</loc>
     
     <lastmod>2018-08-10T17:45:57.713Z</lastmod>
@@ -107,30 +135,9 @@
   </url>
   
   <url>
-    <loc>http://kctechgroup.org/slack/index.html</loc>
-    
-    <lastmod>2018-07-30T02:09:00.902Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/meetups/index.html</loc>
-    
-    <lastmod>2018-07-30T01:59:51.777Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://kctechgroup.org/education/index.html</loc>
     
     <lastmod>2018-07-01T22:36:00.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://kctechgroup.org/about/index.html</loc>
-    
-    <lastmod>2017-06-24T22:22:50.000Z</lastmod>
     
   </url>
   
